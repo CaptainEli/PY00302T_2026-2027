@@ -1431,7 +1431,7 @@ Préférences alimentaires\
 :::
 :::::
 
-[Création de situations particulières à travers la ]{.fragment .absolute data-fragment-index="7" top="70%"}[démarche expérimentale]{style="font-weight:bold;"} qui permettent de [tester l’influence d’une ou plusieurs]{style="font-weight:bold;"} [variables dites indépendantes (VI)]{.purple style="font-weight:bold;"} [sur une ou plusieurs autres]{style="font-weight:bold;"} [variables dites dépendantes (VD)]{.gold style="font-weight:bold;"}
+[Création de situations particulières à travers la]{.fragment .absolute data-fragment-index="7" top="70%"}[démarche expérimentale]{style="font-weight:bold;"} qui permettent de [tester l’influence d’une ou plusieurs]{style="font-weight:bold;"} [variables dites indépendantes (VI)]{.purple style="font-weight:bold;"} [sur une ou plusieurs autres]{style="font-weight:bold;"} [variables dites dépendantes (VD)]{.gold style="font-weight:bold;"}
 
 ## Variables indépendantes vs. dépendantes {.smaller style="text-align: center"}
 

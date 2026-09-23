@@ -37,7 +37,6 @@ slide-number: c
 
 ![](figures/qr_code_mur_questions.png){.absolute top="45%" right="-10%" width="15%" fig-alt="Un QR code renvoyant vers le même Padlet que le lien."}
 
-
 ## Objectifs par séance
 
 ::: {.absolute left="10.5%" top="24%" style="color:#2E8A48; font-size:18px; font-weight:bold;"}
@@ -142,20 +141,9 @@ Avancer sur le [rapport de recherche]{.light-blue}
 (partie [résultats]{.light-blue})
 :::
 
-
 # Intelligence Artificielle
 
 ## Rôle de l'Intelligence Artificielle (IA) dans les apprentissages
-
-
-
-
-
-
-
-
-
-
 
 # Clôture
 
@@ -263,7 +251,7 @@ Avancer sur le [rapport de recherche]{.light-blue}
 (partie [résultats]{.light-blue})
 :::
 
-## {.dark-theme .center style="text-align:center;"}
+##  {.dark-theme .center style="text-align:center;"}
 
 Remerciements pour la construction de ces contenus de cours à
 

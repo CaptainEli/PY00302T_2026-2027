@@ -1247,7 +1247,7 @@ Il [établit des règles relatives au recueil, au traitement et à la communicat
 
 -   Le faire sur un [disque dur dans une zone fermée à clé peut être une alternative]{style="font-weight:bold;"}, avec néanmoins le [risque de panne]{style="font-weight:bold;"}, de même que sur un ordinateur il y a les risques de panne et de vol
 
-- Le faire sur Dropbox, OneDrive, iCloud, Google Drive ou apparenté interroge sur la [souveraineté des données]{style="font-weight:bold;"}
+-   Le faire sur Dropbox, OneDrive, iCloud, Google Drive ou apparenté interroge sur la [souveraineté des données]{style="font-weight:bold;"}
 
 ![](figures/logo_mshs.png){.absolute right="0%" bottom="0%" width="10%" fig-alt="Logo de la MSHS de Toulouse"}
 
@@ -1257,7 +1257,7 @@ Il [établit des règles relatives au recueil, au traitement et à la communicat
 
 ## Anti-plagiat {style="text-align: center"}
 
-"Plagier c'est : s'approprier le travail créatif de quelqu'un d'autre et de le [présenter comme sien]{style="font-weight:bold;"} ; s'accaparer des extraits de texte, des images, des données, etc. provenant de sources externes et les intégrer à son propre travail [sans en mentionner la provenance]{style="font-weight:bold;"} ; résumer l'idée originale d'un auteur en l'exprimant dans ses propres mots, mais en [omettant d'en mentionner la source]{style="font-weight:bold;"}. Plagier est non seulement un acte malhonnête, mais aussi une [infraction qui peut entraîner des sanctions [disciplinaires ; p. ex. avertissement, blâme, exclusion].]{style="font-weight:bold;"}"
+"Plagier c'est : s'approprier le travail créatif de quelqu'un d'autre et de le [présenter comme sien]{style="font-weight:bold;"} ; s'accaparer des extraits de texte, des images, des données, etc. provenant de sources externes et les intégrer à son propre travail [sans en mentionner la provenance]{style="font-weight:bold;"} ; résumer l'idée originale d'un auteur en l'exprimant dans ses propres mots, mais en [omettant d'en mentionner la source]{style="font-weight:bold;"}. Plagier est non seulement un acte malhonnête, mais aussi une [infraction qui peut entraîner des sanctions \[disciplinaires ; p. ex. avertissement, blâme, exclusion\].]{style="font-weight:bold;"}"
 
 ::: aside
 [https://www.univ-tlse2.fr/accueil/vie-campus/services-numeriques/prevention-plagiat](https://www.univ-tlse2.fr/accueil/vie-campus/services-numeriques/prevention-plagiat){style="font-size:15px"}
@@ -1265,7 +1265,7 @@ Il [établit des règles relatives au recueil, au traitement et à la communicat
 
 ## Anti-plagiat {style="text-align: center"}
 
-![](figures/code_propriété_intellectuelle.png){fig-align="center" fig-alt="Code de la propriété intellectuelle"} 
+![](figures/code_propriété_intellectuelle.png){fig-align="center" fig-alt="Code de la propriété intellectuelle"}
 
 ::: aside
 [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032655082](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032655082){style="font-size:15px"}
@@ -1277,15 +1277,15 @@ Il [établit des règles relatives au recueil, au traitement et à la communicat
 
 ## Science Ouverte & Pré-enregistrement {.smaller style="text-align: center"}
 
-["La plupart des résultats scientifiques sont faux"]{style="font-weight:bold;"}, car impossibles à reproduire (Ioannidis, 2005)  
-Le problème de la [fidélité]{.highlighted-light}, de la [réplicabilité]{.highlighted-light} et de la [reproductibilité]{.highlighted-light} des résultats — qui concernent toutes les disciplines scientifiques — se pose à l'échelle scientifique (autant collectivement qu'individuellement), mais a également des répercussions sociétales (confiance des citoyennes/citoyens...)  
+["La plupart des résultats scientifiques sont faux"]{style="font-weight:bold;"}, car impossibles à reproduire (Ioannidis, 2005)\
+Le problème de la [fidélité]{.highlighted-light}, de la [réplicabilité]{.highlighted-light} et de la [reproductibilité]{.highlighted-light} des résultats — qui concernent toutes les disciplines scientifiques — se pose à l'échelle scientifique (autant collectivement qu'individuellement), mais a également des répercussions sociétales (confiance des citoyennes/citoyens...)
 
-![](figures/open_science_logos.png){fig-align="center" width="35%" fig-alt="Code de la propriété intellectuelle"}  
+![](figures/open_science_logos.png){fig-align="center" width="35%" fig-alt="Code de la propriété intellectuelle"}
 
 ::: {.r-stack .absolute top="55%" left="67%" right="-7%"}
-[OSF](https://osf.io) [*– Open Science Framework*]{.highlighted-light}  
+[OSF](https://osf.io) [*– Open Science Framework*]{.highlighted-light}\
 Plate-forme en ligne connue pour inciter à pratiquer la science ouverte
-:::  
+:::
 
 ::: aside
 [Extrait de la formation « Améliorer la qualité de la recherche/transparence, reproductibilité, réplicabilité et généralisation » de Gwenaël Kaminski]{style="font-size:15px"}
@@ -1419,7 +1419,7 @@ Variables mesurées
 Hommes vs. Femmes\
 Enfants vs. Adultes\
 Novice vs. Experte/Expert\
-[…]
+\[…\]
 :::
 
 ::: {.column .fragment data-fragment-index="6" width="50%" style="text-align: center;"}
@@ -1427,11 +1427,11 @@ Novice vs. Experte/Expert\
 Performance\
 Confort\
 Préférences alimentaires\
-[…]
+\[…\]
 :::
 :::::
 
-[Création de situations particulières à travers la [démarche expérimentale]{style="font-weight:bold;"} qui permettent de [tester l’influence d’une ou plusieurs]{style="font-weight:bold;"} [variables dites indépendantes (VI)]{.purple style="font-weight:bold;"} [sur une ou plusieurs autres]{style="font-weight:bold;"} [variables dites dépendantes (VD)]{.gold style="font-weight:bold;"}]{.fragment data-fragment-index="7" .absolute top="70%"}
+[Création de situations particulières à travers la ]{.fragment .absolute data-fragment-index="7" top="70%"}[démarche expérimentale]{style="font-weight:bold;"} qui permettent de [tester l’influence d’une ou plusieurs]{style="font-weight:bold;"} [variables dites indépendantes (VI)]{.purple style="font-weight:bold;"} [sur une ou plusieurs autres]{style="font-weight:bold;"} [variables dites dépendantes (VD)]{.gold style="font-weight:bold;"}
 
 ## Variables indépendantes vs. dépendantes {.smaller style="text-align: center"}
 
@@ -1463,7 +1463,7 @@ Variables mesurées
 Hommes vs. Femmes\
 Enfants vs. Adultes\
 Novice vs. Experte/Expert\
-[…]
+\[…\]
 :::
 
 ::: {.column width="50%" style="text-align: center;"}
@@ -1471,11 +1471,11 @@ Novice vs. Experte/Expert\
 Performance\
 Confort\
 Préférences alimentaires\
-[…]
+\[…\]
 :::
 :::::
 
-[[Hypothèse : mise en lien des variables]{.highlighted-light} [indépendantes]{.purple style="font-weight:bold;"} [et]{.highlighted-light} [dépendantes]{.gold style="font-weight:bold;"} (p. ex. "L’[âge]{.purple style="font-weight:bold;"} influence la [mémoire]{.gold style="font-weight:bold;"}." en hypothèse générale)]{.absolute top="70%"}
+[Hypothèse : mise en lien des variables]{.highlighted-light} [indépendantes]{.purple style="font-weight:bold;"} [et]{.highlighted-light} [dépendantes]{.gold style="font-weight:bold;"} (p. ex. "L’[âge]{.purple style="font-weight:bold;"} influence la [mémoire]{.gold style="font-weight:bold;"}." en hypothèse générale)
 
 ## Variables générales vs. opérationnelles {.smaller style="text-align: center"}
 
@@ -1507,7 +1507,7 @@ Mesures/Catégorisations des concepts
 Âge\
 Mémoire\
 Cohérence d’un texte\
-[…]
+\[…\]
 :::
 
 ::: {.column .fragment data-fragment-index="6" width="50%" style="text-align: center;"}
@@ -1515,13 +1515,14 @@ Cohérence d’un texte\
 15 ans vs. 55 ans\
 Score en tâche de rappel libre\
 Nombre de connecteurs dans un texte\
-[…]
+\[…\]
 :::
 :::::
 
-[[Le choix d’opérationnalisation des variables les assignent dans une catégorie de variables particulière]{.highlighted-light} (p. ex. l’impact d’une [VI]{.purple style="font-weight:bold;"} sur un jugement [[VD]{.gold style="font-weight:bold;"}] : il est possible d’opérationnaliser le jugement sous la forme de réponse oui/non [[variable nominale]{.dark-blue style="font-weight:bold;"}] ou sous la forme de réponse sur une échelle de Likert [[variable ordinale]{.teal style="font-weight:bold;"}])]{.fragment data-fragment-index="7" .absolute top="65%"}
+[Le choix d’opérationnalisation des variables les assignent dans une catégorie de variables particulière]{.highlighted-light} (p. ex. l’impact d’une [VI]{.purple style="font-weight:bold;"} sur un jugement \[[VD]{.gold style="font-weight:bold;"}\] : il est possible d’opérationnaliser le jugement sous la forme de réponse oui/non \[[variable nominale]{.dark-blue style="font-weight:bold;"}\] ou sous la forme de réponse sur une échelle de Likert \[[variable ordinale]{.teal style="font-weight:bold;"}\])
 
 ## Variables indépendantes {.smaller style="font-size:15px;"}
+
 ### 3 critères pour les définir
 
 ::: {.absolute right="0%" top="5%" style="color:#006DA3; font-size:15px;"}
@@ -1533,7 +1534,7 @@ Nombre de connecteurs dans un texte\
 :::
 
 ::::: columns
-::: {.column  width="16%"}
+::: {.column width="16%"}
 [Valeurs de la]{.red style="font-weight:bold;"} [VI]{.purple style="font-weight:bold;"}
 :::
 
@@ -1546,7 +1547,7 @@ Nombre de connecteurs dans un texte\
 :::
 :::::
 
-::::: columns
+:::::: columns
 ::: {.column width="16%"}
 [Type de la]{.magenta style="font-weight:bold;"} [VI]{.purple style="font-weight:bold;"}
 :::
@@ -1566,9 +1567,9 @@ Nombre de connecteurs dans un texte\
 
 [Exemple]{style="font-weight:bold;"} : les participantes/participants vont effectuer la tâche en condition facile [OU]{.magenta} en condition difficile
 :::
-:::::
+::::::
 
-::::: columns
+:::::: columns
 ::: {.column width="16%"}
 [Nature de la]{.pink style="font-weight:bold;"} [VI]{.purple style="font-weight:bold;"}
 :::
@@ -1584,13 +1585,14 @@ Nombre de connecteurs dans un texte\
 
 [Définition]{style="font-weight:bold;"} : l’expérimentatrice/expérimentateur [manipule directement]{.pink} la [VI]{.purple style="font-weight:bold;"} (p. ex. difficulté d’une tâche – facile vs. difficile)
 :::
-:::::
+::::::
 
 ## Variables dépendantes {.smaller style="font-size:17px;"}
+
 ### Caractéristiques métriques déduites à partir des échelles de mesure
 
 ::::: columns
-::: {.column  width="14%"}
+::: {.column width="14%"}
 [Echelle nominale]{.dark-blue style="font-weight:bold;"}
 :::
 
@@ -1599,12 +1601,12 @@ Nombre de connecteurs dans un texte\
 
 [Exemples]{style="font-weight:bold;"} : genre, couleur, profession...
 
-↳ [Indice de tendance centrale]{style="font-weight:bold;"} : [mode]{.dark-blue} | [Indice de dispersion]{style="font-weight:bold;"} : [étendue]{.dark-blue}
+↳ [Indice de tendance centrale]{style="font-weight:bold;"} : [mode]{.dark-blue} \| [Indice de dispersion]{style="font-weight:bold;"} : [étendue]{.dark-blue}
 :::
 :::::
 
 ::::: columns
-::: {.column  width="14%"}
+::: {.column width="14%"}
 [Echelle ordinale]{.teal style="font-weight:bold;"}
 :::
 
@@ -1613,12 +1615,12 @@ Nombre de connecteurs dans un texte\
 
 [Exemples]{style="font-weight:bold;"} : taille (petit, moyen, grand), échelle de Likert (de « pas du tout d’accord » à « tout à fait d’accord)...
 
-↳ [Indice de tendance centrale]{style="font-weight:bold;"} : [médiane]{.teal} | [Indice de dispersion]{style="font-weight:bold;"} : [écart interquartile]{.teal}
+↳ [Indice de tendance centrale]{style="font-weight:bold;"} : [médiane]{.teal} \| [Indice de dispersion]{style="font-weight:bold;"} : [écart interquartile]{.teal}
 :::
 :::::
 
 ::::: columns
-::: {.column  width="14%"}
+::: {.column width="14%"}
 [Echelle d'intervalle]{.green style="font-weight:bold;"}
 :::
 
@@ -1627,7 +1629,7 @@ Nombre de connecteurs dans un texte\
 
 [Exemples]{style="font-weight:bold;"} : température Celsius, note à un examen, score de mémoire...
 
-↳ [Indice de tendance centrale]{style="font-weight:bold;"} : [moyenne]{.green} | [Indice de dispersion]{style="font-weight:bold;"} : [écart-type]{.green} ou [variance]{.green}
+↳ [Indice de tendance centrale]{style="font-weight:bold;"} : [moyenne]{.green} \| [Indice de dispersion]{style="font-weight:bold;"} : [écart-type]{.green} ou [variance]{.green}
 :::
 :::::
 
@@ -1636,11 +1638,11 @@ Nombre de connecteurs dans un texte\
 ## Résumé {style="text-align:center;"}
 
 ::: {.incremental .extrapad}
-- La [démarche expérimentale]{.highlighted-light} essaie l’[hypothèse]{.highlighted-light} de l’[influence]{.highlighted-light} d’une ou plusieurs [VI]{.purple style="font-weight:bold;"} sur une ou plusieurs [VD]{.gold style="font-weight:bold;"}
+-   La [démarche expérimentale]{.highlighted-light} essaie l’[hypothèse]{.highlighted-light} de l’[influence]{.highlighted-light} d’une ou plusieurs [VI]{.purple style="font-weight:bold;"} sur une ou plusieurs [VD]{.gold style="font-weight:bold;"}
 
-- Une [VI]{.purple style="font-weight:bold;"} a plusieurs modalités, peut être [intra-sujets]{.magenta style="font-weight:bold;"} ou [inter-sujets]{.magenta style="font-weight:bold;"} et est [invoquée]{.pink style="font-weight:bold;"} ou [provoquée]{.pink style="font-weight:bold;"}
+-   Une [VI]{.purple style="font-weight:bold;"} a plusieurs modalités, peut être [intra-sujets]{.magenta style="font-weight:bold;"} ou [inter-sujets]{.magenta style="font-weight:bold;"} et est [invoquée]{.pink style="font-weight:bold;"} ou [provoquée]{.pink style="font-weight:bold;"}
 
-- Le [type d’échelle]{.highlighted-light} de la ou des [VD]{.gold style="font-weight:bold;"} ([nominale]{.dark-blue style="font-weight:bold;"}, [ordinale]{.teal style="font-weight:bold;"}, [intervalle]{.green style="font-weight:bold;"}) et le [type de]{.magenta style="font-weight:bold;"} [VI]{.purple style="font-weight:bold;"} ([intra- ou inter-sujets]{.magenta style="font-weight:bold;"}) **déterminent ensuite le test statistique** nécessaire pour **valider ou non l’hypothèse**
+-   Le [type d’échelle]{.highlighted-light} de la ou des [VD]{.gold style="font-weight:bold;"} ([nominale]{.dark-blue style="font-weight:bold;"}, [ordinale]{.teal style="font-weight:bold;"}, [intervalle]{.green style="font-weight:bold;"}) et le [type de]{.magenta style="font-weight:bold;"} [VI]{.purple style="font-weight:bold;"} ([intra- ou inter-sujets]{.magenta style="font-weight:bold;"}) **déterminent ensuite le test statistique** nécessaire pour **valider ou non l’hypothèse**
 :::
 
 ## Résumé exemplifié {style="text-align:center;"}
@@ -1652,10 +1654,11 @@ Nombre de connecteurs dans un texte\
 # Articles
 
 ## Présentation des articles {style="font-size:18px;"}
+
 ### 1 obligatoire par catégorie et 1 obligatoire par personne
 
 ::::: columns
-::: {.column  width="22%"}
+::: {.column width="22%"}
 [Thème 1]{.red style="font-weight:bold;"}
 :::
 
@@ -1665,85 +1668,68 @@ Nombre de connecteurs dans un texte\
 :::::
 
 ## Constitution des groupes de travail {.smaller style="text-align:center; font-size:18px"}
+
 ### Prenez le temps de discuter entre vous de ce qui est important pour vous
 
 ![](figures/qr_code_organisation.png){.absolute top="0%" right="-10%" width="10%" fig-alt="Un QR code renvoyant vers un Padlet pour l'organisation."}
 
-::::: columns
-::: {.column  width="23%"}
+::::::: columns
+::: {.column width="23%"}
 [Contraintes]{.blue style="font-weight:bold;"}
 
-- Je travaille à côté
-- Je fais du sport
-- Je m’occupe d’enfants ou
-de proches à moi
-- Je n’ai pas ou peu de
-connexion internet à mon
-domicile ou pas d’ordinateur  
-- Etc.
+-   Je travaille à côté
+-   Je fais du sport
+-   Je m’occupe d’enfants ou de proches à moi
+-   Je n’ai pas ou peu de connexion internet à mon domicile ou pas d’ordinateur\
+-   Etc.
 :::
 
 ::: {.column width="29%"}
 [Besoins spécifiques]{.blue style="font-weight:bold;"}
 
-- J’ai des difficultés de
-concentration
-- J’ai besoin de planifier les
-temps de travail à l’avance
-et d’être au clair sur les
-consignes/rôles/attentes
-- J’ai des difficultés à
-prendre la parole à l’oral  
-- Etc.
+-   J’ai des difficultés de concentration
+-   J’ai besoin de planifier les temps de travail à l’avance et d’être au clair sur les consignes/rôles/attentes
+-   J’ai des difficultés à prendre la parole à l’oral\
+-   Etc.
 :::
 
 ::: {.column width="24%"}
 [Profil]{.blue style="font-weight:bold;"}
 
-- Je travaille régulièrement
-ou au dernier moment
-- J’apprécie/Je maîtrise
-l’anglais et/ou telle partie
-- J’apprécie travailler/Je
-travaille de cette façon
-- Je souhaite réussir l’UE  
-- Etc.
+-   Je travaille régulièrement ou au dernier moment
+-   J’apprécie/Je maîtrise l’anglais et/ou telle partie
+-   J’apprécie travailler/Je travaille de cette façon
+-   Je souhaite réussir l’UE\
+-   Etc.
 :::
 
 ::: {.column width="24%"}
 [Préférences]{.blue style="font-weight:bold;"}
 
-- Être avec des personnes
-que je (ne) connais (pas)
-- Être avec des personnes
-qui travaillent régulièrement
-et/ou au dernier moment
-- Être avec des personnes
-qui apprécient/maîtrisent
-l’anglais et/ou telle partie  
-- Etc.
+-   Être avec des personnes que je (ne) connais (pas)
+-   Être avec des personnes qui travaillent régulièrement et/ou au dernier moment
+-   Être avec des personnes qui apprécient/maîtrisent l’anglais et/ou telle partie\
+-   Etc.
 :::
-:::::
+:::::::
 
 ## Organisation intragroupe {.smaller style="text-align:center;"}
 
-:::{.extrapad}
-- **Présentez-vous et faites connaissance si vous le souhaitez avec un tour de table :** qu’est-ce qui vous plaît en psychologie ? Avez-vous une idée de projet professionnel/de domaine dans lequel vous aimeriez vous spécialiser ? D’où venez-vous ? Quels sont vos principaux centres d’intérêt en dehors de la psychologie ?
+::: extrapad
+-   **Présentez-vous et faites connaissance si vous le souhaitez avec un tour de table :** qu’est-ce qui vous plaît en psychologie ? Avez-vous une idée de projet professionnel/de domaine dans lequel vous aimeriez vous spécialiser ? D’où venez-vous ? Quels sont vos principaux centres d’intérêt en dehors de la psychologie ?
 
-- **Mettez en commun vos moyens de communication :** e-mail, n° de téléphone, groupe Messenger/WhatsApp…
+-   **Mettez en commun vos moyens de communication :** e-mail, n° de téléphone, groupe Messenger/WhatsApp…
 
-- **Définissez une organisation :** répartition des rôles, créneaux durant lesquels travailler, endroits où se réunir, travail régulier toutes les semaines, travail lors d’une nuit blanche la veille des rendus… 
+-   **Définissez une organisation :** répartition des rôles, créneaux durant lesquels travailler, endroits où se réunir, travail régulier toutes les semaines, travail lors d’une nuit blanche la veille des rendus…
 
-- **Choisissez les articles à lire selon les conditions imposées et répartissez-les entre vous :** 1 par personne
+-   **Choisissez les articles à lire selon les conditions imposées et répartissez-les entre vous :** 1 par personne
 :::
 
 ## Fiche de lecture {style="text-align:center;"}
+
 ### Facultative
 
-![](figures/fiche_lecture_1.png){.absolute top="20%" left="-10%" width="30%" fig-alt="Première page de la fiche de lecture vierge."}
-![](figures/fiche_lecture_2.png){.absolute top="20%" left="20%" width="30%" fig-alt="Deuxième page de la fiche de lecture vierge."}
-![](figures/fiche_lecture_3.png){.absolute top="20%" right="20%" width="30%" fig-alt="Troisième page de la fiche de lecture vierge."}
-![](figures/fiche_lecture_4.png){.absolute top="20%" right="-10%" width="30%" fig-alt="Quatrième page de la fiche de lecture vierge."}
+![](figures/fiche_lecture_1.png){.absolute top="20%" left="-10%" width="30%" fig-alt="Première page de la fiche de lecture vierge."} ![](figures/fiche_lecture_2.png){.absolute top="20%" left="20%" width="30%" fig-alt="Deuxième page de la fiche de lecture vierge."} ![](figures/fiche_lecture_3.png){.absolute top="20%" right="20%" width="30%" fig-alt="Troisième page de la fiche de lecture vierge."} ![](figures/fiche_lecture_4.png){.absolute top="20%" right="-10%" width="30%" fig-alt="Quatrième page de la fiche de lecture vierge."}
 
 # Clôture
 
@@ -1851,7 +1837,7 @@ Avancer sur le [rapport de recherche]{.light-blue}
 (partie [résultats]{.light-blue})
 :::
 
-## {.dark-theme .center style="text-align:center;"}
+##  {.dark-theme .center style="text-align:center;"}
 
 Remerciements pour la construction de ces contenus de cours à
 
@@ -1862,10 +1848,6 @@ Remerciements pour la construction de ces contenus de cours à
 **MAGALI BRINGUIER**
 
 **ZOÉ LACROUX**
-
-
-
-
 
 # Drafts
 
@@ -1902,7 +1884,6 @@ Utilisent ce qui est manipulé (modalités) et mesuré (indicateur/mesure exacte
 TD1 -\> make the timeline in svg format with inkscape then place text using absolute positioning Maybe change all placements/sizes of images to % instead of pixel values? I'm afraid it might look weird on some devices if I keep absolute values Add a follow-along version of the presentation (you can apparently do that with Quarto)
 
 ![](figures/calendrier_universitaire.svg){.img-fluid .r-stretch fig-align="center" width="100%" fig-alt="Frise chronologique du premier semestre."}
-
 
 ## Attendus {.smaller}
 

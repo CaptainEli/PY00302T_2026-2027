@@ -1,0 +1,143 @@
+// Adapted from:
+// - https://scubed.rbind.io/blog/twil_quarto_pres/
+// - https://emilhvitfeldt.com/post/slidecraft-theme-variants/
+// - https://github.com/orgs/quarto-dev/discussions/1645
+
+/*-- scss:defaults --*/
+
+// colour scheme
+$theme-light-back: #F5F9FF;
+$theme-light-link: #0859AF;
+$theme-light-text: #001F2E;
+$theme-dark-back: #001433;
+$theme-dark-link: #94C5F9;
+$theme-dark-text: #F5F9FF;
+
+// default theme colours
+$body-bg: $theme-light-back;
+$body-color: $theme-light-text;
+$link-color: $theme-light-link;
+$presentation-heading-color: lighten($theme-light-text, 30%);
+$text-muted: darken($theme-light-back, 20%);
+
+// fonts
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Mono:ital,wght@0,200..800;1,200..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Next:ital,wght@0,200..800;1,200..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+$font-family-sans-serif: "Atkinson Hyperlegible Mono", sans-serif;
+$presentation-heading-font: "Arial", sans-serif;
+$presentation-font-size-root: 30px;
+$presentation-line-height: 1.6;
+
+/*-- scss:rules --*/
+
+// dark theme variant
+
+.dark-theme {
+  color: $theme-dark-text;
+  background-color: $theme-dark-back;
+  
+  // header text
+  
+  h1, h2, h3 {
+    color: darken($theme-dark-link, 10%);
+  }
+  
+  // link text
+  
+  a { 
+    color: $theme-dark-link;
+  }
+  
+  // slide background
+  
+  .slide-background-content {
+    background-color: $theme-dark-back;
+  }
+}
+
+
+// CSS class for highlighting light theme 
+
+.highlighted-light {
+  color: $theme-light-link;
+  font-weight: bold;
+}
+
+
+// CSS class for highlighting dark theme
+
+.highlighted-dark {
+  color: $theme-dark-link;
+  font-weight: bold;
+}
+
+.reveal .footer {
+    color: $theme-dark-text;
+    background-color: lighten($theme-light-text, 10%);
+    display: block;
+    position: fixed;
+    padding-bottom: 12px;
+    padding-top: 12px;
+    bottom: 0px !important; // Makes footer div flush with bottom of slide
+    width: 100%;
+    z-index: 2 !important; // Sets the footer div further down the z-index
+  }
+
+.reveal .slide-logo {
+    margin-bottom: 6px !important; // Lowers logo more in line with rest of footer
+    z-index: 5 !important; // Keeps logo above footer div
+  }
+  
+  
+// CSS class for changing font color
+  
+.blue {
+  color: lighten($theme-light-text, 28%);
+}
+  
+.light-blue {
+  color: lighten($theme-light-text, 35%);
+}
+
+.dark-blue {
+  color: #0B3F93;
+}
+
+.green {
+  color: #4B5700;
+}
+
+.gold {
+  color: #6F4C06;
+}
+
+.red {
+  color: #A1213F;
+}
+
+.magenta{
+  color: #971C5D;
+}
+
+.pink {
+  color: #8F2888;
+}
+
+.purple {
+  color: #5D2AD5;
+}
+
+.teal {
+  color: #005C5C;
+}
+
+
+// CSS class for changing line spacing (https://stackoverflow.com/a/77868187)
+
+.extrapad li:not(:last-child) {
+    margin-bottom:50px  !important;
+}

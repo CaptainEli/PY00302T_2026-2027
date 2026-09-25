@@ -1436,7 +1436,7 @@ Préférences alimentaires\
 :::
 :::::
 
-[Création de situations particulières à travers la ]{.fragment .absolute data-fragment-index="7" top="70%"}[démarche expérimentale]{style="font-weight:bold;"} qui permettent de [tester l’influence d’une ou plusieurs]{style="font-weight:bold;"} [variables dites indépendantes (VI)]{.purple style="font-weight:bold;"} [sur une ou plusieurs autres]{style="font-weight:bold;"} [variables dites dépendantes (VD)]{.gold style="font-weight:bold;"}
+[Création de situations particulières à travers la [démarche expérimentale]{style="font-weight:bold;"} qui permettent de [tester l’influence d’une ou plusieurs]{style="font-weight:bold;"} [variables dites indépendantes (VI)]{.purple style="font-weight:bold;"} [sur une ou plusieurs autres]{style="font-weight:bold;"} [variables dites dépendantes (VD)]{.gold style="font-weight:bold;"}]{.fragment .absolute data-fragment-index="7" top="70%"}
 
 ## Variables indépendantes vs. dépendantes {.smaller style="text-align: center"}
 
@@ -1524,7 +1524,7 @@ Nombre de connecteurs dans un texte\
 :::
 :::::
 
-[Le choix d’opérationnalisation des variables les assignent dans une catégorie de variables particulière]{.highlighted-light} (p. ex. l’impact d’une [VI]{.purple style="font-weight:bold;"} sur un jugement \[[VD]{.gold style="font-weight:bold;"}\] : il est possible d’opérationnaliser le jugement sous la forme de réponse oui/non \[[variable nominale]{.dark-blue style="font-weight:bold;"}\] ou sous la forme de réponse sur une échelle de Likert \[[variable ordinale]{.teal style="font-weight:bold;"}\])
+[[Le choix d’opérationnalisation des variables les assignent dans une catégorie de variables particulière]{.highlighted-light} (p. ex. l’impact d’une [VI]{.purple style="font-weight:bold;"} sur un jugement \[[VD]{.gold style="font-weight:bold;"}\] : il est possible d’opérationnaliser le jugement sous la forme de réponse oui/non \[[variable nominale]{.dark-blue style="font-weight:bold;"}\] ou sous la forme de réponse sur une échelle de Likert \[[variable ordinale]{.teal style="font-weight:bold;"}\])]{.fragment data-fragment-index="7"}
 
 ## Variables indépendantes {.smaller style="font-size:15px;"}
 
@@ -1730,15 +1730,21 @@ Rapports du CNL [@zotero-item-6505; @zotero-item-6503]
 
 - Différent du [traitement non-littéraire]{.highlighted-light}
 - Traitement [spécifique pour le vers]{.highlighted-light} par rapport à la prose
-- L'[appréciation esthétique]{.highlighted-light} est un facteur particulièrement important
-Particulier, appréciation esthétique représente un important facteur
+- Le poème suscite des [émotions]{.highlighted-light} en stimulant aux niveaux [sémantic]{.highlighted-light}, [prosodique]{.highlighted-light}, et [esthétique]{.highlighted-light}
+
+-> L'[appréciation esthétique]{.highlighted-light} est donc un facteur particulièrement important
 
 
 ::: aside
-@blohmReadingPoetryProse2022; @miallTextTheoryUnderstanding1994
+@blohmReadingPoetryProse2022; @johnson-lairdHowPoetryEvokes2022; @miallTextTheoryUnderstanding1994
 :::
 
 ## Approches pour la lecture de poésie
+
+- Majoritairement [analytique]{.highlighted-light} (ex. commentaire de texte, dissertation)
+- Limite l'[immersion]{.highlighted-light}, pourtant centrale pour [faire du sens]{.highlighted-light} avec les poèmes
+
+**-> Cette façon d'aborder la poésie à un âge formateur pourrait-elle expliquer le dégoût pour la poésie ?**
 
 # Articles
 
@@ -1768,7 +1774,7 @@ Particulier, appréciation esthétique représente un important facteur
 
 ::::: columns
 ::: {.column width="22%"}
-\[Modèle transactionnel\]
+\[Tâches de lecture\]
 :::
 
 ::: {.column width="74%"}

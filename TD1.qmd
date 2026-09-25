@@ -1696,11 +1696,47 @@ Bien-être
 
 ## La lecture en baisse
 
-Chiffres à la baisse, désintérêt poésie
+![](figures/lecteur-déclaré-graphe.png){.absolute .fragment left="-2%" top="8%" width="50%"  fig-alt="Graphe représentant la proportion de français se déclarant lecteurs."}
+
+![](figures/livres-lus-graphe.png){.absolute .fragment right="-2%" top="8%" width="50%" fig-alt="Graphe représentant le nombre de livres lus par les Français."}
+
+![](figures/lecture-fréquence-graphe.png){.absolute .fragment left="25%" top="50%" width="60%" fig-alt="Graphe représentant la fréquence de lecture des Français."}
+
+::: aside
+Rapport du Centre National du Livre (CNL) [@zotero-item-6503]
+:::
+
+## Les Français ont l'impression de lire moins
+![](figures/lecture-évolution-graphe.png){.absolute .fragment left="-5%" top="8%" width="60%" fig-alt="Graphe représentant l'évolution perçue des habitudes de lecture des Français."}
+![](figures/évolution-lecture-jeunes-graphe.png){.absolute .fragment right="-5%" top="40%" width="60%" fig-alt="Graphe représentant la proportion de français se déclarant lecteurs."}
+
+::: aside
+Rapports du CNL [@zotero-item-6505; @zotero-item-6503]
+:::
+
+## La poésie particulièrement mal-aimée
+![](figures/lecture-poésie-tous-graphe.png){.absolute .fragment right="-5%" top="8%" width="60%" fig-alt="Graphe représentant l'évolution perçue des habitudes de lecture des Français."}
+
+
+![](figures/lecture-poésie-enfants-graphe.png){.absolute .fragment left="-5%" top="20%" width="60%" fig-alt="Graphe représentant la proportion de français se déclarant lecteurs."}
+
+![](figures/part-livres-poésie-enfants-graphe.png){.absolute .fragment right="-5%" top="40%" width="60%" fig-alt="Graphe représentant la proportion de français se déclarant lecteurs."}
+
+::: aside
+Rapports du CNL [@zotero-item-6505; @zotero-item-6503]
+:::
 
 ## Traitement du langage poétique
 
+- Différent du [traitement non-littéraire]{.highlighted-light}
+- Traitement [spécifique pour le vers]{.highlighted-light} par rapport à la prose
+- L'[appréciation esthétique]{.highlighted-light} est un facteur particulièrement important
 Particulier, appréciation esthétique représente un important facteur
+
+
+::: aside
+@blohmReadingPoetryProse2022; @miallTextTheoryUnderstanding1994
+:::
 
 ## Approches pour la lecture de poésie
 
@@ -1922,7 +1958,7 @@ Remerciements pour la construction de ces contenus de cours à
 
 **ZOÉ LACROUX**
 
-## References {.dark-theme}
+## Références {.dark-theme}
 
 ::: {#refs}
 :::

@@ -29,8 +29,28 @@
       margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
       vertical-align: middle;
     }
-  </style>
-  <link rel="stylesheet" href="site_libs/revealjs/dist/theme/quarto-fcc1f32f478db9a1fb8d0a705b8cdc60.css">
+    /* CSS for citations */
+    div.csl-bib-body { }
+    div.csl-entry {
+      clear: both;
+      margin-bottom: 0em;
+    }
+    .hanging-indent div.csl-entry {
+      margin-left:2em;
+      text-indent:-2em;
+    }
+    div.csl-left-margin {
+      min-width:2em;
+      float:left;
+    }
+    div.csl-right-inline {
+      margin-left:2em;
+      padding-left:1em;
+    }
+    div.csl-indent {
+      margin-left: 2em;
+    }  </style>
+  <link rel="stylesheet" href="site_libs/revealjs/dist/theme/quarto-7b38f3ff2827ae76d0e4e5efbebf402d.css">
   <link href="site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
   <link href="site_libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
@@ -880,7 +900,7 @@ par article</p>
 <img data-src="figures/démarche-scientifique-schéma.png" class="absolute r-stretch" style="top: 15%; left: 0%; width: 100%; " alt="Schéma représentant la chronologie de la démarche expérimentale.">
 
 <aside><div>
-<p><span style="font-size:15px">Figure par Yoan Segura</span></p>
+<p>Figure par Yoan Segura</p>
 </div></aside></section>
 <section id="exemples-de-types-darticles-courants" class="slide level2">
 <h2>Exemples de types d’articles courants</h2>
@@ -1255,7 +1275,7 @@ Confort<br>
 Préférences alimentaires<br>
 […]</p>
 </div></div>
-<p><span class="fragment absolute" data-fragment-index="7" style="top: 70%; ">Création de situations particulières à travers la <span style="font-weight:bold;">démarche expérimentale</span> qui permettent de <span style="font-weight:bold;">tester l’influence d’une ou plusieurs</span> <span class="purple" style="font-weight:bold;">variables dites indépendantes (VI)</span> <span style="font-weight:bold;">sur une ou plusieurs autres</span> <span class="gold" style="font-weight:bold;">variables dites dépendantes (VD)</span></span></p>
+<p><span class="fragment absolute" data-fragment-index="7" style="top: 70%; ">Création de situations particulières à travers la</span><span style="font-weight:bold;">démarche expérimentale</span> qui permettent de <span style="font-weight:bold;">tester l’influence d’une ou plusieurs</span> <span class="purple" style="font-weight:bold;">variables dites indépendantes (VI)</span> <span style="font-weight:bold;">sur une ou plusieurs autres</span> <span class="gold" style="font-weight:bold;">variables dites dépendantes (VD)</span></p>
 </section>
 <section id="variables-indépendantes-vs.-dépendantes-1" class="slide level2 smaller" style="text-align: center">
 <h2>Variables indépendantes vs.&nbsp;dépendantes</h2>
@@ -1287,7 +1307,7 @@ Confort<br>
 Préférences alimentaires<br>
 […]</p>
 </div></div>
-<p><span class="absolute" style="top: 70%; "><span class="highlighted-light">Hypothèse : mise en lien des variables</span> <span class="purple" style="font-weight:bold;">indépendantes</span> <span class="highlighted-light">et</span> <span class="gold" style="font-weight:bold;">dépendantes</span> (p.&nbsp;ex. “L’<span class="purple" style="font-weight:bold;">âge</span> influence la <span class="gold" style="font-weight:bold;">mémoire</span>.” en hypothèse générale)</span></p>
+<p><span class="highlighted-light">Hypothèse : mise en lien des variables</span> <span class="purple" style="font-weight:bold;">indépendantes</span> <span class="highlighted-light">et</span> <span class="gold" style="font-weight:bold;">dépendantes</span> (p.&nbsp;ex. “L’<span class="purple" style="font-weight:bold;">âge</span> influence la <span class="gold" style="font-weight:bold;">mémoire</span>.” en hypothèse générale)</p>
 </section>
 <section id="variables-générales-vs.-opérationnelles" class="slide level2 smaller" style="text-align: center">
 <h2>Variables générales vs.&nbsp;opérationnelles</h2>
@@ -1319,7 +1339,7 @@ Score en tâche de rappel libre<br>
 Nombre de connecteurs dans un texte<br>
 […]</p>
 </div></div>
-<p><span class="fragment" data-fragment-index="7"><span class="highlighted-light">Le choix d’opérationnalisation des variables les assignent dans une catégorie de variables particulière</span> (p.&nbsp;ex. l’impact d’une <span class="purple" style="font-weight:bold;">VI</span> sur un jugement [<span class="gold" style="font-weight:bold;">VD</span>] : il est possible d’opérationnaliser le jugement sous la forme de réponse oui/non [<span class="dark-blue" style="font-weight:bold;">variable nominale</span>] ou sous la forme de réponse sur une échelle de Likert [<span class="teal" style="font-weight:bold;">variable ordinale</span>])</span></p>
+<p><span class="highlighted-light">Le choix d’opérationnalisation des variables les assignent dans une catégorie de variables particulière</span> (p.&nbsp;ex. l’impact d’une <span class="purple" style="font-weight:bold;">VI</span> sur un jugement [<span class="gold" style="font-weight:bold;">VD</span>] : il est possible d’opérationnaliser le jugement sous la forme de réponse oui/non [<span class="dark-blue" style="font-weight:bold;">variable nominale</span>] ou sous la forme de réponse sur une échelle de Likert [<span class="teal" style="font-weight:bold;">variable ordinale</span>])</p>
 </section>
 <section id="variables-indépendantes" class="slide level2 smaller" style="font-size:15px;">
 <h2>Variables indépendantes</h2>
@@ -1405,15 +1425,47 @@ Nombre de connecteurs dans un texte<br>
 <img data-src="figures/résumé-exemplifié-td1.png" class="absolute r-stretch" style="top: 10%; left: 0%; width: 100%; " alt="Schéma représentant la chronologie de la démarche expérimentale.">
 
 <aside><div>
-<p><span style="font-size:15px">Figure par Yoan Segura</span></p>
+<p>Figure par Yoan Segura</p>
 </div></aside></section></section>
 <section>
 <section id="cadre-théorique" class="title-slide slide level1 center">
 <h1>Cadre théorique</h1>
 
 </section>
-<section id="expertise-et-capacités-cognitives" class="slide level2">
-<h2>Expertise et capacités cognitives</h2>
+<section id="lire-pour-le-plaisir" class="slide level2" style="text-align: center">
+<h2>Lire pour le plaisir</h2>
+<blockquote>
+<p><strong>Lecture volontaire et libre de tout type de texte</strong></p>
+</blockquote>
+<p>A été liée à :</p>
+<div class="columns">
+<div class="column" style="width:33%;">
+<p><img data-src="figures/read-write-symbol.png" style="width:33.0%" alt="Logo feuille de papier et stylo."></p>
+<p>Ampleur du vocabulaire</p>
+<p>Compréhension écrite</p>
+</div><div class="column" style="width:33%;">
+<p><img data-src="figures/math-symbol.png" style="width:33.0%" alt="Logo feuille de papier et stylo."></p>
+<p>Compétences mathématiques</p>
+</div><div class="column" style="width:33%;">
+<p><img data-src="figures/brain-symbol.png" style="width:33.0%" alt="Logo feuille de papier et stylo."></p>
+<p>Imagination<br>
+Empathie<br>
+Bien-être</p>
+</div></div>
+
+<aside><div>
+<p><span class="citation" data-cites="creminReadingPleasureRecent2023">Cremin (<a href="#/references" role="doc-biblioref" onclick="">2023</a>)</span>; <span class="citation" data-cites="sullivanReadingPleasureProgress2015">Sullivan and Brown (<a href="#/references" role="doc-biblioref" onclick="">2015a</a>)</span>; <span class="citation" data-cites="sullivanVocabularyAdolescenceMiddle2015">Sullivan and Brown (<a href="#/references" role="doc-biblioref" onclick="">2015b</a>)</span></p>
+</div></aside></section>
+<section id="la-lecture-en-baisse" class="slide level2">
+<h2>La lecture en baisse</h2>
+<p>Chiffres à la baisse, désintérêt poésie</p>
+</section>
+<section id="traitement-du-langage-poétique" class="slide level2">
+<h2>Traitement du langage poétique</h2>
+<p>Particulier, appréciation esthétique représente un important facteur</p>
+</section>
+<section id="approches-pour-la-lecture-de-poésie" class="slide level2">
+<h2>Approches pour la lecture de poésie</h2>
 </section></section>
 <section>
 <section id="articles" class="title-slide slide level1 center">
@@ -1425,9 +1477,21 @@ Nombre de connecteurs dans un texte<br>
 <h3 id="obligatoire-par-catégorie-et-1-obligatoire-par-personne">1 obligatoire par catégorie et 1 obligatoire par personne</h3>
 <div class="columns">
 <div class="column" style="width:22%;">
-<p><span class="red" style="font-weight:bold;">Thème 1</span></p>
+<p><span class="red" style="font-weight:bold;">Lire pour le plaisir</span></p>
 </div><div class="column" style="width:74%;">
-<p><span class="red">- Article 1</span></p>
+<p><span class="red">- Cremin, T. (2023). Reading for pleasure: Recent research insights. School Libraries in View (SLIV), (47), Article 47.</span></p>
+</div></div>
+<div class="columns">
+<div class="column" style="width:22%;">
+<p><span class="magenta" style="font-weight:bold;">Appréciation esthétique de la poésie</span></p>
+</div><div class="column" style="width:74%;">
+<p><span class="magenta">- Article 1</span></p>
+</div></div>
+<div class="columns">
+<div class="column" style="width:22%;">
+<p>[Modèle transactionnel]</p>
+</div><div class="column" style="width:74%;">
+<p><span class="orange">- Article 1</span></p>
 </div></div>
 </section>
 <section id="constitution-des-groupes-de-travail" class="slide level2 smaller" style="text-align:center; font-size:18px">
@@ -1583,6 +1647,20 @@ Nombre de connecteurs dans un texte<br>
 <p><strong>AURÉLIE PISTONO</strong></p>
 <p><strong>MAGALI BRINGUIER</strong></p>
 <p><strong>ZOÉ LACROUX</strong></p>
+</section>
+<section id="references" class="slide level2 dark-theme smaller scrollable">
+<h2>References</h2>
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-creminReadingPleasureRecent2023" class="csl-entry" role="listitem">
+Cremin, Teresa. 2023. <span>“Reading for Pleasure: <span>Recent</span> Research Insights.”</span> <em>School Libraries in View (SLIV)</em>, no. 47, 47 (February): 6–12. <a href="https://oro.open.ac.uk/87796/">https://oro.open.ac.uk/87796/</a>.
+</div>
+<div id="ref-sullivanReadingPleasureProgress2015" class="csl-entry" role="listitem">
+Sullivan, Alice, and Matt Brown. 2015a. <span>“Reading for Pleasure and Progress in Vocabulary and Mathematics.”</span> <em>British Educational Research Journal</em> 41 (6): 971–91. <a href="https://doi.org/10.1002/berj.3180">https://doi.org/10.1002/berj.3180</a>.
+</div>
+<div id="ref-sullivanVocabularyAdolescenceMiddle2015" class="csl-entry" role="listitem">
+Sullivan, Alice, and Matthew Brown. 2015b. <span>“Vocabulary from Adolescence to Middle Age.”</span> <em>Longitudinal and Life Course Studies</em> 6 (2, 2): 173–89. <a href="https://doi.org/10.14301/llcs.v6i2.310">https://doi.org/10.14301/llcs.v6i2.310</a>.
+</div>
+</div>
 
 
 </section></section>

@@ -1,6 +1,7 @@
 ---
 title: "TD1"
 subtitle: "Découverte du programme"
+bibliography: lecture-plaisir.bib
 format: 
   revealjs:
     theme: custom_theme.scss
@@ -923,7 +924,7 @@ par article
 ![](figures/démarche-scientifique-schéma.png){.absolute .r-stretch left="0%" top="15%" width="100%" fig-alt="Schéma représentant la chronologie de la démarche expérimentale."}
 
 ::: aside
-[Figure par Yoan Segura]{style="font-size:15px"}
+Figure par Yoan Segura
 :::
 
 ## Exemples de types d'articles courants
@@ -1435,7 +1436,7 @@ Préférences alimentaires\
 :::
 :::::
 
-[Création de situations particulières à travers la [démarche expérimentale]{style="font-weight:bold;"} qui permettent de [tester l’influence d’une ou plusieurs]{style="font-weight:bold;"} [variables dites indépendantes (VI)]{.purple style="font-weight:bold;"} [sur une ou plusieurs autres]{style="font-weight:bold;"} [variables dites dépendantes (VD)]{.gold style="font-weight:bold;"}]{.fragment .absolute data-fragment-index="7" top="70%"}
+[Création de situations particulières à travers la ]{.fragment .absolute data-fragment-index="7" top="70%"}[démarche expérimentale]{style="font-weight:bold;"} qui permettent de [tester l’influence d’une ou plusieurs]{style="font-weight:bold;"} [variables dites indépendantes (VI)]{.purple style="font-weight:bold;"} [sur une ou plusieurs autres]{style="font-weight:bold;"} [variables dites dépendantes (VD)]{.gold style="font-weight:bold;"}
 
 ## Variables indépendantes vs. dépendantes {.smaller style="text-align: center"}
 
@@ -1479,7 +1480,7 @@ Préférences alimentaires\
 :::
 :::::
 
-[[Hypothèse : mise en lien des variables]{.highlighted-light} [indépendantes]{.purple style="font-weight:bold;"} [et]{.highlighted-light} [dépendantes]{.gold style="font-weight:bold;"} (p. ex. "L’[âge]{.purple style="font-weight:bold;"} influence la [mémoire]{.gold style="font-weight:bold;"}." en hypothèse générale)]{.absolute top="70%"}
+[Hypothèse : mise en lien des variables]{.highlighted-light} [indépendantes]{.purple style="font-weight:bold;"} [et]{.highlighted-light} [dépendantes]{.gold style="font-weight:bold;"} (p. ex. "L’[âge]{.purple style="font-weight:bold;"} influence la [mémoire]{.gold style="font-weight:bold;"}." en hypothèse générale)
 
 ## Variables générales vs. opérationnelles {.smaller style="text-align: center"}
 
@@ -1523,7 +1524,7 @@ Nombre de connecteurs dans un texte\
 :::
 :::::
 
-[[Le choix d’opérationnalisation des variables les assignent dans une catégorie de variables particulière]{.highlighted-light} (p. ex. l’impact d’une [VI]{.purple style="font-weight:bold;"} sur un jugement \[[VD]{.gold style="font-weight:bold;"}\] : il est possible d’opérationnaliser le jugement sous la forme de réponse oui/non \[[variable nominale]{.dark-blue style="font-weight:bold;"}\] ou sous la forme de réponse sur une échelle de Likert \[[variable ordinale]{.teal style="font-weight:bold;"}\])]{.fragment data-fragment-index="7"}
+[Le choix d’opérationnalisation des variables les assignent dans une catégorie de variables particulière]{.highlighted-light} (p. ex. l’impact d’une [VI]{.purple style="font-weight:bold;"} sur un jugement \[[VD]{.gold style="font-weight:bold;"}\] : il est possible d’opérationnaliser le jugement sous la forme de réponse oui/non \[[variable nominale]{.dark-blue style="font-weight:bold;"}\] ou sous la forme de réponse sur une échelle de Likert \[[variable ordinale]{.teal style="font-weight:bold;"}\])
 
 ## Variables indépendantes {.smaller style="font-size:15px;"}
 
@@ -1654,12 +1655,54 @@ Nombre de connecteurs dans un texte\
 ![](figures/résumé-exemplifié-td1.png){.absolute .r-stretch left="0%" top="10%" width="100%" fig-alt="Schéma représentant la chronologie de la démarche expérimentale."}
 
 ::: aside
-[Figure par Yoan Segura]{style="font-size:15px"}
+Figure par Yoan Segura
 :::
 
 # Cadre théorique
 
-## Expertise et capacités cognitives
+## Lire pour le plaisir {style="text-align: center"}
+
+> **Lecture volontaire et libre de tout type de texte**
+
+A été liée à :
+
+::::: columns
+::: {.column width="33%"}
+![](figures/read-write-symbol.png){width="33%" fig-alt="Logo feuille de papier et stylo."}
+
+Ampleur du vocabulaire 
+
+Compréhension écrite
+:::
+
+::: {.column width="33%"}
+![](figures/math-symbol.png){width="33%" fig-alt="Logo feuille de papier et stylo."}
+
+Compétences mathématiques
+:::
+
+::: {.column width="33%"}
+![](figures/brain-symbol.png){width="33%" fig-alt="Logo feuille de papier et stylo."}
+
+Imagination  
+Empathie  
+Bien-être
+:::
+:::::
+
+::: aside
+@creminReadingPleasureRecent2023; @sullivanReadingPleasureProgress2015; @sullivanVocabularyAdolescenceMiddle2015
+:::
+
+## La lecture en baisse
+
+Chiffres à la baisse, désintérêt poésie
+
+## Traitement du langage poétique
+
+Particulier, appréciation esthétique représente un important facteur
+
+## Approches pour la lecture de poésie
 
 # Articles
 
@@ -1669,11 +1712,31 @@ Nombre de connecteurs dans un texte\
 
 ::::: columns
 ::: {.column width="22%"}
-[Thème 1]{.red style="font-weight:bold;"}
+[Lire pour le plaisir]{.red style="font-weight:bold;"}
 :::
 
 ::: {.column width="74%"}
-[- Article 1]{.red}
+[- Cremin, T. (2023). Reading for pleasure: Recent research insights. School Libraries in View (SLIV), (47), Article 47.]{.red}
+:::
+:::::
+
+::::: columns
+::: {.column width="22%"}
+[Appréciation esthétique de la poésie]{.magenta style="font-weight:bold;"}
+:::
+
+::: {.column width="74%"}
+[- Article 1]{.magenta}
+:::
+:::::
+
+::::: columns
+::: {.column width="22%"}
+\[Modèle transactionnel\]
+:::
+
+::: {.column width="74%"}
+[- Article 1]{.orange}
 :::
 :::::
 
@@ -1858,3 +1921,8 @@ Remerciements pour la construction de ces contenus de cours à
 **MAGALI BRINGUIER**
 
 **ZOÉ LACROUX**
+
+## References {.dark-theme}
+
+::: {#refs}
+:::

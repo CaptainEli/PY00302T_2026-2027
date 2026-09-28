@@ -1730,7 +1730,7 @@ Rapports du CNL [@zotero-item-6505; @zotero-item-6503]
 
 - Différent du [traitement non-littéraire]{.highlighted-light}
 - Traitement [spécifique pour le vers]{.highlighted-light} par rapport à la prose
-- Le poème suscite des [émotions]{.highlighted-light} en stimulant aux niveaux [sémantic]{.highlighted-light}, [prosodique]{.highlighted-light}, et [esthétique]{.highlighted-light}
+- Le poème suscite des [émotions]{.highlighted-light} en stimulant aux niveaux [sémantique]{.highlighted-light}, [prosodique]{.highlighted-light}, et [esthétique]{.highlighted-light}
 
 -> L'[appréciation esthétique]{.highlighted-light} est donc un facteur particulièrement important
 
@@ -1746,9 +1746,13 @@ Rapports du CNL [@zotero-item-6505; @zotero-item-6503]
 
 **-> Cette façon d'aborder la poésie à un âge formateur pourrait-elle expliquer le dégoût pour la poésie ?**
 
+::: aside
+@eva-woodHowThinkandFeelAloudInstruction2004; @martReaderResponseTheoryLiterature2019
+:::
+
 # Articles
 
-## Présentation des articles {style="font-size:18px;"}
+## Présentation des articles {style="font-size:15px;"}
 
 ### 1 obligatoire par catégorie et 1 obligatoire par personne
 
@@ -1758,27 +1762,38 @@ Rapports du CNL [@zotero-item-6505; @zotero-item-6503]
 :::
 
 ::: {.column width="74%"}
-[- Cremin, T. (2023). Reading for pleasure: Recent research insights. School Libraries in View (SLIV), (47), Article 47.]{.red}
+[Sun, Y.-J., Sahakian, B. J., Langley, C., Yang, A., Jiang, Y., Kang, J., Zhao, X., Li, C., Cheng, W., & Feng, J. (2024). Early-initiated childhood reading for pleasure: Associations with better cognitive performance, mental well-being and brain structure in young adolescence. *Psychological Medicine, 54*(2), 359–373.]{.red} [https://doi.org/10.1017/S0033291723001381](https://doi.org/10.1017/S0033291723001381)
 :::
 :::::
 
 ::::: columns
 ::: {.column width="22%"}
-[Appréciation esthétique de la poésie]{.magenta style="font-weight:bold;"}
+[Traitement du discours et de la poésie]{.magenta style="font-weight:bold;"}
 :::
 
 ::: {.column width="74%"}
-[- Article 1]{.magenta}
+[Hugentobler, K. G., & Lüdtke, J. (2021). Micropoetry Meets Neurocognitive Poetics: Influence of Associations on the Reception of Poetry. *Frontiers in Psychology, 12*.]{.magenta}[https://doi.org/10.3389/fpsyg.2021.737756](https://doi.org/10.3389/fpsyg.2021.737756)
 :::
 :::::
 
 ::::: columns
 ::: {.column width="22%"}
-\[Tâches de lecture\]
+[Traitement et appréciation esthétique]{.pink style="font-weight:bold;"}
 :::
 
 ::: {.column width="74%"}
-[- Article 1]{.orange}
+[Menninghaus, W., Wagner, V., Wassiliwizky, E., Schindler, I., Hanich, J., Jacobsen, T., & Koelsch, S. (2019). What are aesthetic emotions? *Psychological Review, 126*(2), 171–195.]{.pink}[https://doi.org/10.1037/rev0000135](https://doi.org/10.1037/rev0000135)
+[Ishizu, T., & Zeki, S. (2013). The brain’s specialized systems for aesthetic and perceptual judgment. *European Journal of Neuroscience, 37*(9), 1413–1420.]{.pink} [https://doi.org/10.1111/ejn.12135](https://doi.org/10.1111/ejn.12135)
+:::
+:::::
+
+::::: columns
+::: {.column width="22%"}
+[Tâches de lecture]{.purple style="font-weight:bold;"}
+:::
+
+::: {.column width="74%"}
+[Ceysson, P. (2006). Leçon de lecture, construction de sens, construction de soi. Lidil. *Revue de linguistique et de didactique des langues, 33*, Article 33.]{.purple} [https://doi.org/10.4000/lidil.68](https://doi.org/10.4000/lidil.68)
 :::
 :::::
 

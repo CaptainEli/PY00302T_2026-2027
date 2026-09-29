@@ -1752,7 +1752,7 @@ Rapports du CNL [@zotero-item-6505; @zotero-item-6503]
 
 # Articles
 
-## Présentation des articles {style="font-size:15px;"}
+## Présentation des articles {style="font-size:15px;" .scrollable}
 
 ### 1 obligatoire par catégorie et 1 obligatoire par personne
 
@@ -1762,7 +1762,9 @@ Rapports du CNL [@zotero-item-6505; @zotero-item-6503]
 :::
 
 ::: {.column width="74%"}
-[Sun, Y.-J., Sahakian, B. J., Langley, C., Yang, A., Jiang, Y., Kang, J., Zhao, X., Li, C., Cheng, W., & Feng, J. (2024). Early-initiated childhood reading for pleasure: Associations with better cognitive performance, mental well-being and brain structure in young adolescence. *Psychological Medicine, 54*(2), 359–373.]{.red} [https://doi.org/10.1017/S0033291723001381](https://doi.org/10.1017/S0033291723001381)
+[- Sullivan, A., & Brown, M. (2015). Reading for pleasure and progress in vocabulary and mathematics. *British Educational Research Journal, 41*(6), 971–991.]{.red} [https://doi.org/10.1002/berj.3180](https://doi.org/10.1002/berj.3180)
+
+[- Sun, Y.-J., Sahakian, B. J., Langley, C., Yang, A., Jiang, Y., Kang, J., Zhao, X., Li, C., Cheng, W., & Feng, J. (2024). Early-initiated childhood reading for pleasure: Associations with better cognitive performance, mental well-being and brain structure in young adolescence. *Psychological Medicine, 54*(2), 359–373.]{.red} [https://doi.org/10.1017/S0033291723001381](https://doi.org/10.1017/S0033291723001381)
 :::
 :::::
 
@@ -1772,7 +1774,11 @@ Rapports du CNL [@zotero-item-6505; @zotero-item-6503]
 :::
 
 ::: {.column width="74%"}
-[Hugentobler, K. G., & Lüdtke, J. (2021). Micropoetry Meets Neurocognitive Poetics: Influence of Associations on the Reception of Poetry. *Frontiers in Psychology, 12*.]{.magenta}[https://doi.org/10.3389/fpsyg.2021.737756](https://doi.org/10.3389/fpsyg.2021.737756)
+[- Hugentobler, K. G., & Lüdtke, J. (2021). Micropoetry Meets Neurocognitive Poetics: Influence of Associations on the Reception of Poetry. *Frontiers in Psychology, 12*.]{.magenta}[https://doi.org/10.3389/fpsyg.2021.737756](https://doi.org/10.3389/fpsyg.2021.737756)
+
+[- Jacobs, A. M. (2015). Neurocognitive poetics: Methods and models for investigating the neuronal and cognitive-affective bases of literature reception. *Frontiers in Human Neuroscience, 9*.]{.magenta} [https://doi.org/10.3389/fnhum.2015.00186](https://doi.org/10.3389/fnhum.2015.00186)
+
+[- Rumbold, K., & Simecek, K. (2016). Affective and Cognitive Responses to Poetry in the University Classroom. *Changing English, 23*(4), 335–350.]{.magenta} [https://doi.org/10.1080/1358684X.2016.1230468](https://doi.org/10.1080/1358684X.2016.1230468)
 :::
 :::::
 
@@ -1782,9 +1788,11 @@ Rapports du CNL [@zotero-item-6505; @zotero-item-6503]
 :::
 
 ::: {.column width="74%"}
-[Menninghaus, W., Wagner, V., Wassiliwizky, E., Schindler, I., Hanich, J., Jacobsen, T., & Koelsch, S. (2019). What are aesthetic emotions? *Psychological Review, 126*(2), 171–195.]{.pink}[https://doi.org/10.1037/rev0000135](https://doi.org/10.1037/rev0000135)
+[- Chatterjee, A., & Vartanian, O. (2014). Neuroaesthetics. *Trends in Cognitive Sciences, 18*(7), 370–375.]{.pink} [https://doi.org/10.1016/j.tics.2014.03.003](https://doi.org/10.1016/j.tics.2014.03.003)
 
-[Ishizu, T., & Zeki, S. (2013). The brain’s specialized systems for aesthetic and perceptual judgment. *European Journal of Neuroscience, 37*(9), 1413–1420.]{.pink} [https://doi.org/10.1111/ejn.12135](https://doi.org/10.1111/ejn.12135)
+[- Ishizu, T., & Zeki, S. (2013). The brain’s specialized systems for aesthetic and perceptual judgment. *European Journal of Neuroscience, 37*(9), 1413–1420.]{.pink} [https://doi.org/10.1111/ejn.12135](https://doi.org/10.1111/ejn.12135)
+
+[- Menninghaus, W., Wagner, V., Wassiliwizky, E., Schindler, I., Hanich, J., Jacobsen, T., & Koelsch, S. (2019). What are aesthetic emotions? *Psychological Review, 126*(2), 171–195.]{.pink}[https://doi.org/10.1037/rev0000135](https://doi.org/10.1037/rev0000135)
 :::
 :::::
 
@@ -1794,7 +1802,11 @@ Rapports du CNL [@zotero-item-6505; @zotero-item-6503]
 :::
 
 ::: {.column width="74%"}
-[Ceysson, P. (2006). Leçon de lecture, construction de sens, construction de soi. Lidil. *Revue de linguistique et de didactique des langues, 33*, Article 33.]{.purple} [https://doi.org/10.4000/lidil.68](https://doi.org/10.4000/lidil.68)
+[- Bohn-Gettler, C. M., & McCrudden, M. T. (2022). Effects of Emotions, Topic Beliefs, and Task Instructions on the Processing and Memory for a Dual-Position Text. *Discourse Processes, 59*(1–2), 52–75.]{.purple} [https://doi.org/10.1080/0163853X.2021.1918965](https://doi.org/10.1080/0163853X.2021.1918965)
+
+[- Ceysson, P. (2006). Leçon de lecture, construction de sens, construction de soi. Lidil. *Revue de linguistique et de didactique des langues, 33*, Article 33.]{.purple} [https://doi.org/10.4000/lidil.68](https://doi.org/10.4000/lidil.68)
+
+[- McCrudden, M. T., Magliano, J. P., & Schraw, G. (2010). Exploring how relevance instructions affect personal reading intentions, reading goals and text processing: A mixed methods study. *Contemporary Educational Psychology, 35*(4), 229–241.]{.purple} [https://doi.org/10.1016/j.cedpsych.2009.12.001](https://doi.org/10.1016/j.cedpsych.2009.12.001)
 :::
 :::::
 

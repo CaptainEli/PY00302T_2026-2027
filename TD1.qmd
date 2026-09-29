@@ -1480,7 +1480,7 @@ Préférences alimentaires\
 :::
 :::::
 
-[Hypothèse : mise en lien des variables]{.highlighted-light} [indépendantes]{.purple style="font-weight:bold;"} [et]{.highlighted-light} [dépendantes]{.gold style="font-weight:bold;"} (p. ex. "L’[âge]{.purple style="font-weight:bold;"} influence la [mémoire]{.gold style="font-weight:bold;"}." en hypothèse générale)
+[[Hypothèse : mise en lien des variables]{.highlighted-light} [indépendantes]{.purple style="font-weight:bold;"} [et]{.highlighted-light} [dépendantes]{.gold style="font-weight:bold;"} (p. ex. "L’[âge]{.purple style="font-weight:bold;"} influence la [mémoire]{.gold style="font-weight:bold;"}." en hypothèse générale)]{.absolute top="70%"}
 
 ## Variables générales vs. opérationnelles {.smaller style="text-align: center"}
 
@@ -1732,7 +1732,7 @@ Rapports du CNL [@zotero-item-6505; @zotero-item-6503]
 - Traitement [spécifique pour le vers]{.highlighted-light} par rapport à la prose
 - Le poème suscite des [émotions]{.highlighted-light} en stimulant aux niveaux [sémantique]{.highlighted-light}, [prosodique]{.highlighted-light}, et [esthétique]{.highlighted-light}
 
--> L'[appréciation esthétique]{.highlighted-light} est donc un facteur particulièrement important
+→ L'[appréciation esthétique]{.highlighted-light} est donc un facteur particulièrement important
 
 
 ::: aside
@@ -1744,7 +1744,7 @@ Rapports du CNL [@zotero-item-6505; @zotero-item-6503]
 - Majoritairement [analytique]{.highlighted-light} (ex. commentaire de texte, dissertation)
 - Limite l'[immersion]{.highlighted-light}, pourtant centrale pour [faire du sens]{.highlighted-light} avec les poèmes
 
-**-> Cette façon d'aborder la poésie à un âge formateur pourrait-elle expliquer le dégoût pour la poésie ?**
+**→ Cette façon d'aborder la poésie à un âge formateur pourrait-elle expliquer le dégoût pour la poésie ?**
 
 ::: aside
 @eva-woodHowThinkandFeelAloudInstruction2004; @martReaderResponseTheoryLiterature2019

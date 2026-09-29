@@ -1783,6 +1783,7 @@ Rapports du CNL [@zotero-item-6505; @zotero-item-6503]
 
 ::: {.column width="74%"}
 [Menninghaus, W., Wagner, V., Wassiliwizky, E., Schindler, I., Hanich, J., Jacobsen, T., & Koelsch, S. (2019). What are aesthetic emotions? *Psychological Review, 126*(2), 171–195.]{.pink}[https://doi.org/10.1037/rev0000135](https://doi.org/10.1037/rev0000135)
+
 [Ishizu, T., & Zeki, S. (2013). The brain’s specialized systems for aesthetic and perceptual judgment. *European Journal of Neuroscience, 37*(9), 1413–1420.]{.pink} [https://doi.org/10.1111/ejn.12135](https://doi.org/10.1111/ejn.12135)
 :::
 :::::

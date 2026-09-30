@@ -31,7 +31,7 @@ slide-number: c
 ## Le mur des questions
 
 ::: r-stack
-[padlet.com/elichaput/PY00302T](padlet.com/elichaput/PY00302T){style="font-size:20px;"}
+[padlet.com/elichaput/PY00302T](https://padlet.com/elichaput/py00302t-mur-des-questions-5wr05uxj8nlbdqa0){style="font-size:20px;"}
 :::
 
 ![](figures/faq_yoan.png){fig-align="center" width="75%" fig-alt="Un Padlet intitulé « mur des questions »"}
@@ -1744,7 +1744,7 @@ Rapports du CNL [@zotero-item-6505; @zotero-item-6503]
 - Majoritairement [analytique]{.highlighted-light} (ex. commentaire de texte, dissertation)
 - Limite l'[immersion]{.highlighted-light}, pourtant centrale pour [faire du sens]{.highlighted-light} avec les poèmes
 
-**→ Cette façon d'aborder la poésie à un âge formateur pourrait-elle expliquer le dégoût pour la poésie ?**
+**[→ Cette façon d'aborder la poésie à un âge formateur pourrait-elle expliquer le dégoût pour la poésie ?]{.dark-blue}**
 
 ::: aside
 @eva-woodHowThinkandFeelAloudInstruction2004; @martReaderResponseTheoryLiterature2019
@@ -1777,6 +1777,8 @@ Rapports du CNL [@zotero-item-6505; @zotero-item-6503]
 [- Hugentobler, K. G., & Lüdtke, J. (2021). Micropoetry Meets Neurocognitive Poetics: Influence of Associations on the Reception of Poetry. *Frontiers in Psychology, 12*.]{.magenta}[https://doi.org/10.3389/fpsyg.2021.737756](https://doi.org/10.3389/fpsyg.2021.737756)
 
 [- Jacobs, A. M. (2015). Neurocognitive poetics: Methods and models for investigating the neuronal and cognitive-affective bases of literature reception. *Frontiers in Human Neuroscience, 9*.]{.magenta} [https://doi.org/10.3389/fnhum.2015.00186](https://doi.org/10.3389/fnhum.2015.00186)
+
+[- Johnson-Laird, P. N., & Oatley, K. (2022). How poetry evokes emotions. *Acta Psychologica, 224*, 103506.]{.magenta} [https://doi.org/10.1016/j.actpsy.2022.103506](https://doi.org/10.1016/j.actpsy.2022.103506)
 
 [- Rumbold, K., & Simecek, K. (2016). Affective and Cognitive Responses to Poetry in the University Classroom. *Changing English, 23*(4), 335–350.]{.magenta} [https://doi.org/10.1080/1358684X.2016.1230468](https://doi.org/10.1080/1358684X.2016.1230468)
 :::

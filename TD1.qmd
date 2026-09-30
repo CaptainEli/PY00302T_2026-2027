@@ -1994,7 +1994,7 @@ Remerciements pour la construction de ces contenus de cours à
 
 **ZOÉ LACROUX**
 
-## Références {.dark-theme}
+## Références {.dark-theme style="font-size:15px;"}
 
 ::: {#refs}
 :::

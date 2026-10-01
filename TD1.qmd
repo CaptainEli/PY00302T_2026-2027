@@ -1774,27 +1774,25 @@ Rapports du CNL [@zotero-item-6505; @zotero-item-6503]
 :::
 
 ::: {.column width="74%"}
-[- Hugentobler, K. G., & Lüdtke, J. (2021). Micropoetry Meets Neurocognitive Poetics: Influence of Associations on the Reception of Poetry. *Frontiers in Psychology, 12*.]{.magenta}[https://doi.org/10.3389/fpsyg.2021.737756](https://doi.org/10.3389/fpsyg.2021.737756)
+[- Baldwin, R. S., Peleg-Bruckner, Z., & McClintock, A. H. (1985). Effects of Topic Interest and Prior Knowledge on Reading Comprehension. *Reading Research Quarterly, 20*(4), 497–504.]{.magenta} [https://doi.org/10.2307/747856](https://doi.org/10.2307/747856)
 
-[- Jacobs, A. M. (2015). Neurocognitive poetics: Methods and models for investigating the neuronal and cognitive-affective bases of literature reception. *Frontiers in Human Neuroscience, 9*.]{.magenta} [https://doi.org/10.3389/fnhum.2015.00186](https://doi.org/10.3389/fnhum.2015.00186)
+[- Blohm, S., Versace, S., Methner, S., Wagner, V., Schlesewsky, M., & Menninghaus, W. (2022). Reading Poetry and Prose: Eye Movements and Acoustic Evidence. *Discourse Processes, 59*(3), 159–183.]{.magenta} [https://doi.org/10.1080/0163853X.2021.2015188](https://doi.org/10.1080/0163853X.2021.2015188)
 
-[- Johnson-Laird, P. N., & Oatley, K. (2022). How poetry evokes emotions. *Acta Psychologica, 224*, 103506.]{.magenta} [https://doi.org/10.1016/j.actpsy.2022.103506](https://doi.org/10.1016/j.actpsy.2022.103506)
-
-[- Rumbold, K., & Simecek, K. (2016). Affective and Cognitive Responses to Poetry in the University Classroom. *Changing English, 23*(4), 335–350.]{.magenta} [https://doi.org/10.1080/1358684X.2016.1230468](https://doi.org/10.1080/1358684X.2016.1230468)
+[- Hugentobler, K. G., & Lüdtke, J. (2021). Micropoetry Meets Neurocognitive Poetics: Influence of Associations on the Reception of Poetry. *Frontiers in Psychology, 12*.]{.magenta} [https://doi.org/10.3389/fpsyg.2021.737756](https://doi.org/10.3389/fpsyg.2021.737756)
 :::
 :::::
 
 ::::: columns
 ::: {.column width="22%"}
-[Traitement et appréciation esthétique]{.pink style="font-weight:bold;"}
+[Jugement esthétique et plaisir]{.pink style="font-weight:bold;"}
 :::
 
 ::: {.column width="74%"}
-[- Chatterjee, A., & Vartanian, O. (2014). Neuroaesthetics. *Trends in Cognitive Sciences, 18*(7), 370–375.]{.pink} [https://doi.org/10.1016/j.tics.2014.03.003](https://doi.org/10.1016/j.tics.2014.03.003)
+[- Blohm, S., Wagner, V., Schlesewsky, M., & Menninghaus, W. (2018). Sentence judgments and the grammar of poetry: Linking linguistic structure and poetic effect. *Poetics, 69,* 41–56.]{.pink} [https://doi.org/10.1016/j.poetic.2018.04.005](https://doi.org/10.1016/j.poetic.2018.04.005)
+
+[- Errington, P. J., Thye, M., Tao, A., & Mirman, D. (2024). Effects of ease of comprehension and individual differences on the pleasure experienced while reading novelized verb-based metaphors. *Proceedings of the Annual Meeting of the Cognitive Science Society, 46*(0).]{.pink} [https://escholarship.org/uc/item/2531w7kx](https://escholarship.org/uc/item/2531w7kx)
 
 [- Ishizu, T., & Zeki, S. (2013). The brain’s specialized systems for aesthetic and perceptual judgment. *European Journal of Neuroscience, 37*(9), 1413–1420.]{.pink} [https://doi.org/10.1111/ejn.12135](https://doi.org/10.1111/ejn.12135)
-
-[- Menninghaus, W., Wagner, V., Wassiliwizky, E., Schindler, I., Hanich, J., Jacobsen, T., & Koelsch, S. (2019). What are aesthetic emotions? *Psychological Review, 126*(2), 171–195.]{.pink}[https://doi.org/10.1037/rev0000135](https://doi.org/10.1037/rev0000135)
 :::
 :::::
 
@@ -1806,9 +1804,9 @@ Rapports du CNL [@zotero-item-6505; @zotero-item-6503]
 ::: {.column width="74%"}
 [- Bohn-Gettler, C. M., & McCrudden, M. T. (2022). Effects of Emotions, Topic Beliefs, and Task Instructions on the Processing and Memory for a Dual-Position Text. *Discourse Processes, 59*(1–2), 52–75.]{.purple} [https://doi.org/10.1080/0163853X.2021.1918965](https://doi.org/10.1080/0163853X.2021.1918965)
 
-[- Ceysson, P. (2006). Leçon de lecture, construction de sens, construction de soi. Lidil. *Revue de linguistique et de didactique des langues, 33*, Article 33.]{.purple} [https://doi.org/10.4000/lidil.68](https://doi.org/10.4000/lidil.68)
-
 [- McCrudden, M. T., Magliano, J. P., & Schraw, G. (2010). Exploring how relevance instructions affect personal reading intentions, reading goals and text processing: A mixed methods study. *Contemporary Educational Psychology, 35*(4), 229–241.]{.purple} [https://doi.org/10.1016/j.cedpsych.2009.12.001](https://doi.org/10.1016/j.cedpsych.2009.12.001)
+
+[- Schraw, G., & Dennison, R. S. (1994). The Effect of Reader Purpose on Interest and Recall. *Journal of Reading Behavior, 26*(1), 1–18.]{.purple} [https://doi.org/10.1080/10862969409547834](https://doi.org/10.1080/10862969409547834)
 :::
 :::::
 

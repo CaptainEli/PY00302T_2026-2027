@@ -289,9 +289,9 @@ Il est donc important de [savoir optimiser leur utilisation]{style="font-weight:
 
 - [Comment utiliser ChatGPT ? (non exhaustif)]{style="font-weight: bold"}
 
-  [1. Apprendre à poser les "bonnes" questions: "]{style="font-weight: bold"}[prompts]{.highlighted-light}"
+  [1. Apprendre à poser les "bonnes" questions:]{style="font-weight: bold"}"[prompts]{.highlighted-light}"
 
-  [2. Poser plusieurs questions et]{style="font-weight: bold"}[comparer]{.highlighted-light} les réponses, notamment avec les cours/formations/autre\
+  [2. Poser plusieurs questions et]{style="font-weight: bold"} [comparer]{.highlighted-light} les réponses, notamment avec les cours/formations/autre\
   ↳ Ne jamais se contenter d’une réponse de ChatGPT, mais [recouper les informations]{.highlighted-light}
 
 ::: notes
@@ -309,9 +309,9 @@ Il est donc important de [savoir optimiser leur utilisation]{style="font-weight:
 
   [1. Apprendre à poser les "bonnes" questions: "]{style="font-weight: bold"}[prompts]{.highlighted-light}"
 
-  [2. Poser plusieurs questions et]{style="font-weight: bold"}[comparer]{.highlighted-light} les réponses, notamment avec les cours/formations/autre
+  [2. Poser plusieurs questions et]{style="font-weight: bold"} [comparer]{.highlighted-light} les réponses, notamment avec les cours/formations/autre
 
-  [3. Demander et]{style="font-weight: bold"}[vérifier]{.highlighted-light} les sources sur lesquelles il s’appuie\
+  [3. Demander et]{style="font-weight: bold"} [vérifier]{.highlighted-light} les sources sur lesquelles il s’appuie\
   ↳ Lui demander de fournir les références et [vérifier qu’elles existent]{.highlighted-light}
 
 ::: notes

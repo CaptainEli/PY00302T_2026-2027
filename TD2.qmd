@@ -268,7 +268,7 @@ Il est donc important de [savoir optimiser leur utilisation]{style="font-weight:
 
 - [Comment utiliser ChatGPT ? (non exhaustif)]{style="font-weight: bold"}
 
-  [1. Apprendre à poser les "bonnes" questions: "]{style="font-weight: bold"}[prompts]{.highlighted-light}"\
+  [1. Apprendre à poser les "bonnes" questions:]{style="font-weight: bold"} "[prompts]{.highlighted-light}"\
   [↳ Faire preuve de précision]{.highlighted-light} dans les termes et les attentes\
   Exemple :\
   [✗]{style="color:red;"} "Qu’est-ce que la mémoire de travail ?"\
@@ -289,7 +289,7 @@ Il est donc important de [savoir optimiser leur utilisation]{style="font-weight:
 
 - [Comment utiliser ChatGPT ? (non exhaustif)]{style="font-weight: bold"}
 
-  [1. Apprendre à poser les "bonnes" questions:]{style="font-weight: bold"}"[prompts]{.highlighted-light}"
+  [1. Apprendre à poser les "bonnes" questions:]{style="font-weight: bold"} "[prompts]{.highlighted-light}"
 
   [2. Poser plusieurs questions et]{style="font-weight: bold"} [comparer]{.highlighted-light} les réponses, notamment avec les cours/formations/autre\
   ↳ Ne jamais se contenter d’une réponse de ChatGPT, mais [recouper les informations]{.highlighted-light}

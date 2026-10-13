@@ -430,18 +430,34 @@ Figure par Yoan Segura
 :::
 
 ## Corrélation & Causalité {style="text-align: center;"}
+### On peut corréler de nombreuses données...
 
 ![](figures/correlation-masters-degrees-psychology-private-detectives-nc.png){.absolute top="20%" left="10%" width="40%" fig-alt="Corrélation entre le nombre de diplômes délivrés en Psychologie et le nombre de détectives privés en Caroline du Nord"}
 
-![](figures/evolution-masters-degrees-psychology-private-detectives-nc.svg){.absolute top="50%" right="10%" width="40%" fig-alt="Evolution du nombre de diplômes délivrés en Psychologie et du nombre de détectives privés en Caroline du Nord"}
+![](figures/evolution-masters-degrees-psychology-private-detectives-nc.svg){.absolute top="40%" right="10%" width="40%" fig-alt="Evolution du nombre de diplômes délivrés en Psychologie et du nombre de détectives privés en Caroline du Nord"}
+
+::: aside
+[https://www.tylervigen.com/spurious/discover](https://www.tylervigen.com/spurious/discover){style="font-size:15px"}
+:::
+
+
+## Corrélation & Causalité {style="text-align: center;"}
+### ...qui n'ont en réalité aucun rapport !
 
 ![](figures/correlation-masters-degrees-psychology-tired-searches.png){.absolute top="20%" left="10%" width="40%" fig-alt="Corrélation entre le nombre de diplômes délivrés en Psychologie et le nombre de recherches Google pour: Je suis fatigué"}
 
-![](figures/evolution-masters-degrees-psychology-tired-searches.svg){.absolute top="50%" right="10%" width="40%" fig-alt="Evolution du nombre de diplômes délivrés en Psychologie et du nombre de recherches Google pour: Je suis fatigué"}
+![](figures/evolution-masters-degrees-psychology-tired-searches.svg){.absolute top="40%" right="10%" width="40%" fig-alt="Evolution du nombre de diplômes délivrés en Psychologie et du nombre de recherches Google pour: Je suis fatigué"}
+
+::: aside
+[https://www.tylervigen.com/spurious/discover](https://www.tylervigen.com/spurious/discover){style="font-size:15px"}
+:::
+
+## Corrélation & Causalité {style="text-align: center;"}
+### Attention à la distinction !
 
 ![](figures/correlation-masters-degrees-psychology-netflix-stock-price.png){.absolute top="20%" left="10%" width="40%" fig-alt="Corrélation entre le nombre de diplômes délivrés en Psychologie et le cours des actions en Bourse de Netflix"}
 
-![](figures/evolution-masters-degrees-psychology-netflix-stock-price.svg){.absolute top="50%" right="10%" width="40%" fig-alt="Evolution du nombre de diplômes délivrés en Psychologie et du cours des actions en Bourse de Netflix"}
+![](figures/evolution-masters-degrees-psychology-netflix-stock-price.svg){.absolute top="40%" right="10%" width="40%" fig-alt="Evolution du nombre de diplômes délivrés en Psychologie et du cours des actions en Bourse de Netflix"}
 
 ::: aside
 [https://www.tylervigen.com/spurious/discover](https://www.tylervigen.com/spurious/discover){style="font-size:15px"}

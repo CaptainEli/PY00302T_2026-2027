@@ -463,6 +463,364 @@ Figure par Yoan Segura
 [https://www.tylervigen.com/spurious/discover](https://www.tylervigen.com/spurious/discover){style="font-size:15px"}
 :::
 
+# Normes APA
+
+## Exemples d'outils {.smaller style="text-align: center;"}
+
+Normes APA version 7 - [http://www.apa.org/](http://www.apa.org/)
+
+:::::: columns
+::: {.column width="50%"}
+![](figures/normes-apa-scribbr.png){fig-align="center" width="100%" fig-alt="Le guide des normes APA françaises édité par Scribbr"}
+:::
+
+::: {#vcenter .column width="50%"}
+![](figures/logo-zotero-text.png){fig-align="center" width="20%" fig-alt="Le logo de Zotero, un gestionnaire bibliographique."}
+
+![](figures/logo-zotero.png){fig-align="center" width="40%" fig-alt="L'icône de Zotero, un gestionnaire bibliographique."}
+
+Logiciel ou version en ligne
+:::
+::::::
+
+::: aside
+[https://www.scribbr.fr/manuel-normes-apa/](https://www.scribbr.fr/manuel-normes-apa/){style="font-size:15px"} [&]{style="font-size:15px"} [https://www.zotero.org/](https://www.zotero.org/){style="font-size:15px"}
+:::
+
+::: notes
+– APA : American Psychological Association – association de chercheuses/chercheurs et praticiennes/praticiens en psychologie et en psychiatrie ; il s’agit d’une association affiliée à de nombreuses revues telles que l’ensemble des JEP (Journal of Experimental Psychology, en psychologie cognitive, etc.)
+
+– Elle régit les normes de rédaction d’un document en vue d’une publication et sont utilisées dans toutes les revues ayant trait à la psychologie
+:::
+
+
+## Exemples d'outils {.smaller style="text-align: center;"}
+
+Normes APA version 7 - [http://www.apa.org/](http://www.apa.org/)
+
+:::::: columns
+::: {.column width="50%"}
+![](figures/guide-apa-medasi.png){fig-align="center" width="70%" fig-alt="Le guide des normes APA françaises de Girdardet & Nuber."}
+:::
+
+::: {#vcenter .column width="50%"}
+![](figures/logo-zotero-text.png){fig-align="center" width="20%" fig-alt="Le logo de Zotero, un gestionnaire bibliographique."}
+
+![](figures/logo-zotero.png){fig-align="center" width="40%" fig-alt="L'icône de Zotero, un gestionnaire bibliographique."}
+
+Logiciel ou version en ligne
+:::
+::::::
+
+::: aside
+[https://www.hepl.ch/files/live/sites/files-site/files/filiere-ps/programme-formation/normes-apa-stage-maeps-fps-hep-vaud.pdf](https://www.hepl.ch/files/live/sites/files-site/files/filiere-ps/programme-formation/normes-apa-stage-maeps-fps-hep-vaud.pdf){style="font-size:15px"} [&]{style="font-size:15px"} [https://www.zotero.org/](https://www.zotero.org/){style="font-size:15px"}
+:::
+
+::: notes
+– Si le guide des normes APA de scribbr ne vous convient pas, il y a également le guide de Girardet & Nuber avec leurs équipes de recherche qui est peut-être plus synthétique et complémentaire
+:::
+
+
+## Manuel français des normes APA {.smaller style="text-align: center;"}
+
+:::::: columns
+::: {.column width="33%"}
+[**Citer dans le texte**]{.blue}
+
+**Forme narrative**  
+2 personnes : Pistono et Segura (2025)  
++2 personnes : Pistono et al. (2025)  
+
+**Forme entre parenthèses**  
+2 personnes : (Pistono & Segura, 2025)  
++2 personnes : (Pistono et al., 2025)  
++2 références : (Pistono, 2025; Pistono, 2026)  
+
+**Cas particulier n°1**  
+Même auteur, même année : Pistono (2025), Pistono (2025)
+:::
+
+::: {.column width="34%"}
+[**Citer dans la bibliographie**]{.blue}
+:::
+
+::: {.column width="33%"}
+[**Mise en forme**]{.blue}
+:::
+::::::
+
+::: notes
+– Citer dans le texte : les 2 questions à se poser sont 1) est-ce que vous souhaitez une forme narrative ou une forme entre parenthèses ? ; et 2) combien y a-t-il d’autrices/personnes ? 
+
+– Cas particulier n°1 : il peut y avoir 2 articles avec les mêmes personnes, la même année, ce qui donne par exemple Pistono (2025) et Pistono (2025) [diapositive suivante pour la suite]
+
+– Si vous tombez sur des cas particuliers, nous pourrons le voir au cas par cas
+:::
+
+
+## Manuel français des normes APA {.smaller style="text-align: center;"}
+
+:::::: columns
+::: {.column width="33%"}
+[**Citer dans le texte**]{.blue}
+
+**Forme narrative**  
+2 personnes : Pistono et Segura (2025)  
++2 personnes : Pistono et al. (2025)  
+
+**Forme entre parenthèses**  
+2 personnes : (Pistono & Segura, 2025)  
++2 personnes : (Pistono et al., 2025)  
++2 références : (Pistono, 2025; Pistono, 2026)  
+
+**Cas particulier n°1**  
+Pistono (2025a), Pistono (2025b)
+:::
+
+::: {.column width="34%"}
+[**Citer dans la bibliographie**]{.blue}
+:::
+
+::: {.column width="33%"}
+[**Mise en forme**]{.blue}
+:::
+::::::
+
+::: notes
+– Pour se repérer, il faut ajouter une lettre à côté des années de telle sorte que cela fasse Pistono (2025a) et Pistono (2025b)
+
+– Cette lettre devra également apparaître dans la bibliographie
+
+– Si vous tombez sur des cas particuliers, nous pourrons le voir au cas par cas
+:::
+
+
+## Manuel français des normes APA {.smaller style="text-align: center;"}
+
+:::::: columns
+::: {.column width="33%"}
+[**Citer dans le texte**]{.blue}
+
+**Forme narrative**  
+2 personnes : Pistono et Segura (2025)  
++2 personnes : Pistono et al. (2025)  
+
+**Forme entre parenthèses**  
+2 personnes : (Pistono & Segura, 2025)  
++2 personnes : (Pistono et al., 2025)  
++2 références : (Pistono, 2025; Pistono, 2026)  
+
+**Cas particulier n°2**  
+Equipes différentes : Pistono et al. (2025), Pistono et al. (2025)
+:::
+
+::: {.column width="34%"}
+[**Citer dans la bibliographie**]{.blue}
+:::
+
+::: {.column width="33%"}
+[**Mise en forme**]{.blue}
+:::
+::::::
+
+::: notes
+– Cas particulier n°2 : il peut y avoir 2 articles avec la même première autrice/le même premier auteur, mais une suite d’autrices/personnes différente, la même année, ce qui donne par exemple Pistono et al. (2025) et Pistono et al. (2025) [diapositive suivante pour la suite]
+
+– Si vous tombez sur des cas particuliers, nous pourrons le voir au cas par cas
+:::
+
+
+## Manuel français des normes APA {.smaller style="text-align: center;"}
+
+:::::: columns
+::: {.column width="33%"}
+[**Citer dans le texte**]{.blue}
+
+**Forme narrative**  
+2 personnes : Pistono et Segura (2025)  
++2 personnes : Pistono et al. (2025)  
+
+**Forme entre parenthèses**  
+2 personnes : (Pistono & Segura, 2025)  
++2 personnes : (Pistono et al., 2025)  
++2 références : (Pistono, 2025; Pistono, 2026)  
+
+**Cas particulier n°2**  
+Pistono, Bringuier et al. (2025), Pistono, Segura et al. (2025)
+:::
+
+::: {.column width="34%"}
+[**Citer dans la bibliographie**]{.blue}
+:::
+
+::: {.column width="33%"}
+[**Mise en forme**]{.blue}
+:::
+::::::
+
+::: notes
+– Pour se repérer, il faut ajouter une autrice/un auteur devant « et al. »
+
+– Si vous tombez sur des cas particuliers, nous pourrons le voir au cas par cas
+:::
+
+
+## Manuel français des normes APA {.smaller style="text-align: center;"}
+
+:::::: columns
+::: {.column width="33%"}
+[**Citer dans le texte**]{.blue}
+:::
+
+::: {.column width="34%"}
+[**Citer dans la bibliographie**]{.blue}
+
+![](figures/ex-biblio-apa.png){fig-align="center" width="100%" fig-alt="Des exemples de citation en bibliographie aux normes APA, 7e édition."}
+
+[https://www.scribbr.fr/manuel-normes-apa/](https://www.scribbr.fr/manuel-normes-apa/)
+:::
+
+::: {.column width="33%"}
+[**Mise en forme**]{.blue}
+:::
+::::::
+
+::: notes
+– Citer dans la bibliographie : vous avez un tableau pages 5 à 8 avec les différentes façons de citer selon la nature du document (il n’y a que 3 exemples sur cette diapositive)
+
+– Article de revue = tous les articles que je vous ai donnés quasiment
+
+– Lien à mettre au tableau : https://psycnet.apa.org/ — les références de ce site sont les plus fiables (mais elles n’y sont pas toutes)
+
+– Bonus : seulement les 19 premières autrices/premiers personnes et le 20ème sont à citer dans la bibliographie s’il y en a plus de 20, il faut mettre « … » entre les 19 premières/premiers et le dernier
+
+– Parfois il n’y aurait pas toutes les informations parfaites comme dans les exemples, si c’est le cas l’important c’est de mettre toutes les informations que vous avez (sans en inventer évidemment)
+:::
+
+
+## Manuel français des normes APA {.smaller style="text-align: center;"}
+
+:::::: columns
+::: {.column width="33%"}
+[**Citer dans le texte**]{.blue}
+:::
+
+::: {.column width="34%"}
+[**Citer dans la bibliographie**]{.blue}
+:::
+
+::: {.column width="33%"}
+[**Mise en forme**]{.blue}  
+[Corps du texte]{.blue}
+
+**Toutes les marges** : 2,54 cm  
+**Police** : Times New Roman taille 12  
+**Alignement** : gauche (justifié accepté)  
+**Début de paragraphe** : indentation 1,27 cm  
+**Interligne** : 1,5  
+**En-tête** : titre et pagination
+
+![](figures/en-tete-ex.png){fig-align="center" width="100%" fig-alt="Un exemple de mise en forme de l'en-tête aux normes APA, 7e édition."}
+:::
+::::::
+
+::: notes
+– Le manuel propose plusieurs polices, mais la plus reconnue reste Times New Roman en taille 12
+
+– Normalement, l’alignement est à gauche selon les normes APA version 7 (des recherches montrent que cela facilite la lecture), mais j’accepte que vos travaux soient en justifié
+
+– L’en-tête doit comporter le titre à gauche et la pagination à droite (la pagination peut paraître contre-intuitive, mais elle est bien en haut à droite des pages donc)
+
+– Pour les détails des mises en forme des tableaux, des figures, de la bibliographie, etc., je vous laisse vous servir du guide, je n’irai pas plus dans le détail, mais vous pourrez me demander si besoin
+
+– Ne prenez pas la mise en forme et les normes APA par extension à la légère, je serai tatillon là-dessus car c’est important pour la suite (TER, mémoires)
+:::
+
+
+## Manuel français des normes APA {.smaller style="text-align: center;"}
+
+:::::: columns
+::: {.column width="33%"}
+[**Citer dans le texte**]{.blue}
+:::
+
+::: {.column width="34%"}
+[**Citer dans la bibliographie**]{.blue}
+:::
+
+::: {.column width="33%"}
+[**Mise en forme**]{.blue}  
+[Titres et sous-titres]{.blue}
+
+![](figures/ex-mise-en-forme-apa.png){fig-align="center" width="100%" fig-alt="Des exemples de mise en forme aux normes APA 7e édition."}
+:::
+::::::
+
+::: notes
+– Dans le manuel, vous avez des exemples pour illustrer les mises en forme
+:::
+
+
+## Manuel français des normes APA {.smaller style="text-align: center;"}
+
+:::::: columns
+::: {.column width="33%"}
+[**Citer dans le texte**]{.blue}
+:::
+
+::: {.column width="34%"}
+[**Citer dans la bibliographie**]{.blue}
+:::
+
+::: {.column width="33%"}
+[**Mise en forme**]{.blue}  
+[Bibliographie]{.blue}
+
+![](figures/ex-mise-en-page-biblio-apa.png){fig-align="center" width="100%" fig-alt="Des exemples de mise en forme de la bibliographie aux normes APA 7e édition."}
+:::
+::::::
+
+
+## Manuel français des normes APA {.smaller style="text-align: center;"}
+
+:::::: columns
+::: {.column width="33%"}
+[**Citer dans le texte**]{.blue}
+
+**Forme narrative**  
+2 personnes : Pistono et Segura (2025)  
++2 personnes : Pistono et al. (2025)  
+
+**Forme entre parenthèses**  
+2 personnes : (Pistono & Segura, 2025)  
++2 personnes : (Pistono et al., 2025)  
++2 références : (Pistono, 2025; Pistono, 2026)  
+:::
+
+::: {.column width="34%"}
+[**Citer dans la bibliographie**]{.blue}
+
+![](figures/ex-biblio-apa.png){fig-align="center" width="100%" fig-alt="Des exemples de citation en bibliographie aux normes APA, 7e édition."}
+:::
+
+::: {.column width="33%"}
+[**Mise en forme**]{.blue}  
+[Bibliographie]{.blue}
+
+![](figures/ex-mise-en-page-biblio-apa.png){fig-align="center" width="100%" fig-alt="Des exemples de mise en forme de la bibliographie aux normes APA 7e édition."}
+:::
+::::::
+
+::: notes
+– D’expérience personnelle, je me suis longtemps servi du manuel et je faisais manuellement les normes APA, ce qui fait qu’aujourd’hui je les connais à peu près par cœur et je sais vérifier le travail d’autres outils qui peuvent les générer automatiquement donc je ne pense pas que ce soit du temps perdu que de les apprendre un minimum manuellement (les règles dont vous vous servez le plus au moins), même si cela demande du temps ; parce que si vos encadrantes/encadrants de TER ou de mémoires y accordent de l’importance c’est bien d’être au clair là-dessus
+:::
+
+
+## Générateur aux normes APA
+
+
+
+
 ## 
 
 ::: notes

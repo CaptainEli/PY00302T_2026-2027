@@ -816,9 +816,160 @@ Pistono, Bringuier et al. (2025), Pistono, Segura et al. (2025)
 :::
 
 
-## Générateur aux normes APA
+## Générateur aux normes APA {style="text-align: center;"}
+
+Normes APA version 7 - [http://www.apa.org/](http://www.apa.org/)
+
+![](figures/scribbr-generateur-apa.png){fig-align="center" width="100%" fig-alt="Barre de recherche de références de Scribbr, un générateur de sources aux normes APA."}
+
+::: aside
+[https://www.scribbr.fr/references/generateur/apa/](https://www.scribbr.fr/references/generateur/apa/){style="font-size:15px"}
+:::
+
+::: notes
+– Sur Scribbr, il est également possible de mettre un lien sur un générateur des normes APA (en s’assurant qu’il s’agit bien de la version 7) et d’associer un article ou autre dans une « liste » (dans l’exemple ici, la liste s’appelle « Bibliographie »)
+
+– DOI (digital object identifier) : littéralement « identifiant d'objet numérique » ; étiquette attachée à chaque ressource numérique (articles de périodique, livres, chapitres de livre, etc.)
+:::
 
 
+## Générateur aux normes APA {style="text-align: center;"}
+
+:::::: columns
+::: {.column width="67%"}
+![](figures/scribbr-interface.png){fig-align="center" width="100%" fig-alt="Interface de Scribbr, un générateur de sources aux normes APA."}
+:::
+
+::: {.column width="33%"}
+![](figures/scribbr-parametres-liste.png){fig-align="center" width="100%" fig-alt="Interface de modification des paramètres de liste pour la bibliographie montée avec Scribbr, un générateur de sources aux normes APA."}
+:::
+::::::
+
+::: aside
+[https://www.scribbr.fr/references/generateur/apa/](https://www.scribbr.fr/references/generateur/apa/){style="font-size:15px"}
+:::
+
+::: notes
+– Cette « liste » de références vous permet ensuite de générer une bibliographie en sélectionnant les références souhaitées, puis en les copiant dans votre presse-papiers et en les collant dans un fichier Word par exemple (en s’assurant que la mise en forme avec l’indexation à la deuxième ligne et l’interligne ne soient pas supprimées)
+
+– Vous pouvez vérifier que les normes APA soient de la bonne version en regardant en-dessous de « Bibliographie » en haut ; pour modifier, il faut cliquer, c’est intuitif
+
+– Vous remarquerez également que Scribbr propose d’autres fonctionnalités : logiciel anti-plagiat, détecteur IA, citation de sources, correcteur d’orthographe, etc. ; je ne connais pas bien ces fonctionnalités, je les ai découvertes en préparant ce cours (je n’utilise pas Scribbr), à vous de vous renseigner et de voir ce que vous préférez utiliser (toujours en vérifiant !)
+
+– En plus de la citation dans la bibliographie, vous pouvez également sélectionner une référence et cliquer sur « Citation dans le texte » [diapositive suivante pour la suite]
+:::
+
+
+## Générateur aux normes APA {style="text-align: center;"}
+
+![](figures/citation-scribbr.png){fig-align="center" width="100%" fig-alt="Exemples de citations dans le texte avec Scribbr, un générateur de sources aux normes APA."}
+
+::: aside
+[https://www.scribbr.fr/references/generateur/apa/](https://www.scribbr.fr/references/generateur/apa/){style="font-size:15px"}
+:::
+
+::: notes
+– Cela vous permet de savoir comment citer dans le texte avec la forme entre parenthèses ou la forme narrative
+
+– À un niveau d’expertise plus important, il est possible de relier Scribbr à un Google Docs (mais attention à la souveraineté des données)
+:::
+
+## Logiciel Zotero {style="text-align: center;"}
+
+![](figures/interface-zotero.png){fig-align="center" width="70%" fig-alt="Interface de sélection d'un article dans le logiciel Zotero."}
+
+![](figures/zotero-menu-bibliothèque.png){.absolute width="20%" left="5%" top="30%" fig-alt="Menu d'une Bibliothèque dans le logiciel Zotero."}
+
+![](figures/zotero-apperçu-article.png){.absolute .fragment width="23%" right="20%" top="18%" fig-alt="Onglet de description d'un article dans le logiciel Zotero."}
+
+![](figures/icone-article-zotero.png){.absolute width="10%" right="0%" top="60%" fig-alt="Icône du pdf d'un article"}
+
+::: aside
+[https://www.zotero.org](https://www.zotero.org){style="font-size:15px"}
+:::
+
+::: notes
+– Présenter à nouveau Sci-hub au besoin (en faisant de la « prévention » sur l’aspect « illégal » et sur comment Sci-hub est né – Sci-Hub est né en 2011 à l’initiative d’Alexandra Elbakyan, chercheuse kazakhe en neurosciences : le projet a été créé en réponse à la difficulté d’accès aux articles scientifiques, souvent verrouillés derrière des coûts imposés par des éditrices/éditeurs, l’objectif étant de rendre la recherche accessible à toutes et tous gratuitement indépendamment des moyens financiers ou de l’affiliation institutionnelle) ?
+
+– Je ne suis pas expert du logiciel Zotero donc je vous illustre quelques possibilités non exhaustives sur le logiciel Zotero (pas sur la version en ligne), mais il y en a plein d’autres ; je vous laisse le choix de le prendre en main par vous-même, l’utilisation est plutôt intuitive
+
+– C’est un logiciel compatible avec les principaux systèmes d’exploitation et les tablettes, mais vous pouvez également utiliser une version en ligne ; vous pouvez créer un compte et faire les deux et synchroniser vos données
+
+– Pour simplifier, c’est un outil plutôt complet qui vous permet de classer et d’organiser vos articles/lectures tout en vous permettant d’avoir les informations essentielles presque automatiquement (p. ex. autrices/personnes, dates, revue)
+
+– Attention, comme pour ChatGPT, il faut vérifier les informations données automatiquement car Zotero est susceptible de faire des erreurs ! J’aurais tendance à vous conseiller, d’abord, de vous entraîner un minimum à référencer vos sources à la main avec le manuel présenté précédemment pour avoir un niveau d’expertise suffisamment important pour vérifier ensuite ce que propose Zotero sans que cela ne vous demande trop d’efforts, ou mieux, de faire les 2 en parallèle
+
+– Vous pouvez ajouter des dossiers, des sous-dossiers, des notes, des marqueurs, etc.
+
+– 2 possibilités : soit vous faites glisser l’article que vous avez récupéré en format PDF, l’avantage est que vous aurez accès au PDF [diapositive suivante pour la suite]
+:::
+
+
+## Logiciel Zotero {style="text-align: center;"}
+
+![](figures/recherche-zotero.png){fig-align="center" width="70%" fig-alt="Interface de recherche d'un article dans le logiciel Zotero"}
+
+![](figures/zotero-menu-bibliothèque.png){.absolute width="20%" left="5%" top="30%" fig-alt="Menu d'une Bibliothèque dans le logiciel Zotero."}
+
+::: aside
+[https://www.zotero.org](https://www.zotero.org){style="font-size:15px"}
+:::
+
+::: notes
+– Soit vous référencez le lien ou le doi en cliquant sur l’emoji baguette magique (si l’article n’est pas trop récent), mais vous n’aurez évidemment pas accès au PDF depuis Zotero sans l’avoir glissé par vous-mêmes depuis votre ordinateur
+
+– Dans ces deux cas, Zotero vous donne les principales informations dans « Infos » à droite
+:::
+
+
+## Logiciel Zotero {style="text-align: center;"}
+
+![](figures/zotero-article-ouvert.png){fig-align="center" width="70%" fig-alt="Interface de lecture d'un article dans le logiciel Zotero"}
+
+::: aside
+[https://www.zotero.org](https://www.zotero.org){style="font-size:15px"}
+:::
+
+::: notes
+– Si vous avez le fichier PDF, en cliquant dessus, vous pouvez travailler directement sur l’article : selon les articles, Zotero peut même vous mettre le plan à gauche et vous pouvez cliquer pour accéder aux parties qui vous intéressent, de même que vous pouvez surligner les passages qui vous intéressent
+:::
+
+## Logiciel Zotero {style="text-align: center;"}
+
+![](figures/edition-article-zotero.png){fig-align="center" width="70%" fig-alt="Interface d'anotation d'un article dans le logiciel Zotero"}
+
+::: aside
+[https://www.zotero.org](https://www.zotero.org){style="font-size:15px"}
+:::
+
+::: notes
+– Vous pouvez également créer des notes sur les passages qui vous intéressent
+:::
+
+
+## Logiciel Zotero {style="text-align: center;"}
+
+![](figures/selection-documents-zotero.png){fig-align="center" width="70%" fig-alt="Sélection de documents dans le logiciel Zotero"}
+
+::: aside
+[https://www.zotero.org](https://www.zotero.org){style="font-size:15px"}
+:::
+
+::: notes
+– Souvent, l’intérêt premier à utiliser Zotero est pour être aidé dans les références bibliographiques aux normes APA
+
+– Pour qu’il vous génère une bibliographie aux normes que vous souhaitez, vous devez sélectionner les articles concernés [diapositive suivante pour la suite]
+:::
+
+## Logiciel Zotero {style="text-align: center;"}
+
+![](figures/sélection-normes-zotero.png){fig-align="center" width="70%" fig-alt="Sélection des normes de citations dans le logiciel Zotero"}
+
+![](figures/bibliographie-zotero-word.png){.absolute top="30%" right="0%" width="40%" fig-alt="Sélection des normes de citations dans le logiciel Zotero"}
+
+::: aside
+[https://www.zotero.org](https://www.zotero.org){style="font-size:15px"}
+:::
 
 
 ## 

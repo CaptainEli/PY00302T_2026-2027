@@ -471,15 +471,15 @@ Normes APA version 7 - [http://www.apa.org/](http://www.apa.org/)
 
 :::::: columns
 ::: {.column width="50%"}
-![](figures/normes-apa-scribbr.png){fig-align="center" width="100%" fig-alt="Le guide des normes APA françaises édité par Scribbr"}
+![](figures/normes-apa-scribbr.png){.fragment data-fragment-index="1" fig-align="center" width="100%" fig-alt="Le guide des normes APA françaises édité par Scribbr"}
 :::
 
 ::: {#vcenter .column width="50%"}
-![](figures/logo-zotero-text.png){fig-align="center" width="20%" fig-alt="Le logo de Zotero, un gestionnaire bibliographique."}
+![](figures/logo-zotero-text.png){.fragment data-fragment-index="2" fig-align="center" width="20%" fig-alt="Le logo de Zotero, un gestionnaire bibliographique."}
 
-![](figures/logo-zotero.png){fig-align="center" width="40%" fig-alt="L'icône de Zotero, un gestionnaire bibliographique."}
+![](figures/logo-zotero.png){.fragment data-fragment-index="2" fig-align="center" width="40%" fig-alt="L'icône de Zotero, un gestionnaire bibliographique."}
 
-Logiciel ou version en ligne
+[Logiciel ou version en ligne]{.fragment data-fragment-index="2"}
 :::
 ::::::
 
@@ -527,17 +527,17 @@ Logiciel ou version en ligne
 ::: {.column width="33%"}
 [**Citer dans le texte**]{.blue}
 
-**Forme narrative**  
-2 personnes : Pistono et Segura (2025)  
-+2 personnes : Pistono et al. (2025)  
+[**Forme narrative**]{.fragment data-fragment-index="1"}  
+[2 personnes : Pistono et Segura (2025)]{.fragment data-fragment-index="1"}  
+[+2 personnes : Pistono et al. (2025)]{.fragment data-fragment-index="1"}  
 
-**Forme entre parenthèses**  
-2 personnes : (Pistono & Segura, 2025)  
-+2 personnes : (Pistono et al., 2025)  
-+2 références : (Pistono, 2025; Pistono, 2026)  
+[**Forme entre parenthèses**]{.fragment data-fragment-index="1"}  
+[2 personnes : (Pistono & Segura, 2025)]{.fragment data-fragment-index="1"}  
+[+2 personnes : (Pistono et al., 2025)]{.fragment data-fragment-index="1"}  
+[+2 références : (Pistono, 2025; Pistono, 2026)]{.fragment data-fragment-index="1"}  
 
-**Cas particulier n°1**  
-Même auteur, même année : Pistono (2025), Pistono (2025)
+[**Cas particulier n°1**]{.fragment data-fragment-index="1"}  
+[Même auteur, même année : Pistono (2025), Pistono (2025)]{.fragment data-fragment-index="1"}
 :::
 
 ::: {.column width="34%"}
@@ -841,7 +841,7 @@ Normes APA version 7 - [http://www.apa.org/](http://www.apa.org/)
 :::
 
 ::: {.column width="33%"}
-![](figures/scribbr-parametres-liste.png){fig-align="center" width="100%" fig-alt="Interface de modification des paramètres de liste pour la bibliographie montée avec Scribbr, un générateur de sources aux normes APA."}
+![](figures/scribbr-parametres-liste.png){.fragment data-fragment-index="1" fig-align="center" width="100%" fig-alt="Interface de modification des paramètres de liste pour la bibliographie montée avec Scribbr, un générateur de sources aux normes APA."}
 :::
 ::::::
 
@@ -876,13 +876,15 @@ Normes APA version 7 - [http://www.apa.org/](http://www.apa.org/)
 
 ## Logiciel Zotero {style="text-align: center;"}
 
-![](figures/interface-zotero.png){fig-align="center" width="70%" fig-alt="Interface de sélection d'un article dans le logiciel Zotero."}
+![](figures/interface-zotero.png){.fragment data-fragment-index="1" fig-align="center" width="70%" fig-alt="Interface de sélection d'un article dans le logiciel Zotero."}
 
-![](figures/zotero-menu-bibliothèque.png){.absolute width="20%" left="5%" top="30%" fig-alt="Menu d'une Bibliothèque dans le logiciel Zotero."}
+![](figures/zotero-menu-bibliothèque.png){.fragment data-fragment-index="5" .absolute width="20%" left="5%" top="30%" fig-alt="Menu d'une Bibliothèque dans le logiciel Zotero."}
 
-![](figures/zotero-apperçu-article.png){.absolute .fragment width="23%" right="20%" top="18%" fig-alt="Onglet de description d'un article dans le logiciel Zotero."}
+![](figures/zotero-apperçu-article.png){.absolute .fragment data-fragment-index="2" width="23%" right="20%" top="18%" fig-alt="Onglet de description d'un article dans le logiciel Zotero."}
 
-![](figures/icone-article-zotero.png){.absolute width="10%" right="0%" top="60%" fig-alt="Icône du pdf d'un article"}
+![](figures/icone-article-zotero.png){.fragment data-fragment-index="3" .absolute width="8%" right="5%" top="65%" fig-alt="Icône du pdf d'un article"}
+
+![](figures/arrow-up-left.png){.fragment data-fragment-index="4" .absolute width="6%" right="8%" top="52%" fig-alt="Icône du pdf d'un article"}
 
 ::: aside
 [https://www.zotero.org](https://www.zotero.org){style="font-size:15px"}
@@ -965,10 +967,26 @@ Normes APA version 7 - [http://www.apa.org/](http://www.apa.org/)
 
 ![](figures/sélection-normes-zotero.png){fig-align="center" width="70%" fig-alt="Sélection des normes de citations dans le logiciel Zotero"}
 
-![](figures/bibliographie-zotero-word.png){.absolute top="30%" right="0%" width="40%" fig-alt="Sélection des normes de citations dans le logiciel Zotero"}
+![](figures/bibliographie-zotero-word.png){.fragment data-fragment-index="1" .absolute top="30%" right="0%" width="40%" fig-alt="Sélection des normes de citations dans le logiciel Zotero"}
+
+::: {.fragment data-fragment-index="1" .absolute right="41.5%" bottom="12%" style="font-size:18px;"}
+A copier/coller sur Word
+:::
 
 ::: aside
 [https://www.zotero.org](https://www.zotero.org){style="font-size:15px"}
+:::
+
+::: notes
+– Ensuite, vous choisissez les normes que vous souhaitez, dans notre cas il s’agit des normes APA version 7 ; cela va copier la bibliographie générée dans votre presse-papiers
+
+– Enfin, vous n’avez plus qu’à ouvrir un document Word ou autre (parfois cela ne fonctionne pas parfaitement bien, p. ex. sur Pages) et coller pour obtenir le résultat
+
+– Une fois encore, attention, comme pour ChatGPT, il faut vérifier les informations données automatiquement car Zotero est susceptible de faire des erreurs !
+
+– À un niveau d’expertise plus important, il est possible de relier Zotero à votre navigateur (il existe une extension Zotero) ainsi que de le relier à un fichier Word ou autre pour qu’il vous « automatise » en quelque sorte les citations dans le texte et dans la bibliographie
+
+– C’est un outil de plus en plus précieux pour la recherche au fur et à mesure que vous avancerez dans votre cursus
 :::
 
 

@@ -1030,6 +1030,36 @@ Permet d’associer un synonyme à un mot-clé
 
 ## Partageons les idées ! {style="text-align: center;"}
 
+![](figures/qr_code_brainstorming.png){fig-align="center" width="100%" fig-alt="Un QR code renvoyant vers un Padlet intitulé « brainstorming »"}  
+
+[https://padlet.com/elichaput/py00302t-brainstorming](https://padlet.com/elichaput/py00302t-brainstorming-s024hz5did546d9nxapl)
+
+
+## Lire de la poésie
+
+Pourquoi lire pour le plaisir ?
+-> cf bibliographie thème "lire pour le plaisir"
+
+L'attrait de la poésie (le plaisir à la lecture d'un poème) pourrait-il résider dans son effet esthétique ?
+-> oui (cf bibliographie thème "jugement esthétique et plaisir")
+
+Comment traite-t-on un texte à sa lecture ?
+-> cf bibliographie thème "traitement du discours et de la poésie"
+
+Les tâches de lecture peuvent-elles impacter la façon dont est traité un texte ?
+-> oui (cf bibliographie thème "tâches de lecture")
+
+-> On peut donc supposer que les tâches de lecture impactent l'effet esthétique d'un poème ; quelles tâches pour maximiser l'appréciation esthétique ?
+
+MAIS on pourrait théoriquement se poser d'autres questions : 
+-> Comment optimiser la compréhension d'un texte (par les tâches de lecture) ?
+-> Comment orienter l'attention d'un lecteur vers certains aspects du texte (par les tâches de lecture) ?
+-> Etc.
+
+
+::: aside
+@creminReadingPleasureRecent2023; @sullivanReadingPleasureProgress2015; @sullivanVocabularyAdolescenceMiddle2015
+:::
 
 
 ## 
@@ -1154,3 +1184,8 @@ Remerciements pour la construction de ces contenus de cours à
 **MAGALI BRINGUIER**
 
 **ZOÉ LACROUX**
+
+## Références {.dark-theme style="font-size:15px;"}
+
+::: {#refs}
+:::

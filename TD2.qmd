@@ -156,10 +156,11 @@ Avancer sur le [rapport de recherche]{.light-blue}
 :::
 
 ::: {.column width="36%"}
-![](figures/meme-chatgpt.png){fig-align="center" width="100%" fig-alt="Un meme sur l'utilisation de ChatGPT pour faire son travail."} [What do you think?]{style="font-weight: lighter"}
+![](figures/meme-chatgpt.png){fig-align="center" width="100%" fig-alt="Un meme sur l'utilisation de ChatGPT pour faire son travail."}  
+[What do you think?]{style="font-weight: lighter"}
 :::
 
-::: {.column width="32%"}
+::: {#vcenter .column width="32%"}
 [Percevez-vous parfois des]{style="font-weight: bold"}[limites]{.highlighted-light} et/ou des [désavantages]{.highlighted-light} à cette utilisation ?
 :::
 ::::::
@@ -967,7 +968,7 @@ Normes APA version 7 - [http://www.apa.org/](http://www.apa.org/)
 
 ![](figures/sélection-normes-zotero.png){fig-align="center" width="70%" fig-alt="Sélection des normes de citations dans le logiciel Zotero"}
 
-![](figures/bibliographie-zotero-word.png){.fragment data-fragment-index="1" .absolute top="30%" right="0%" width="40%" fig-alt="Sélection des normes de citations dans le logiciel Zotero"}
+![](figures/bibliographie-zotero-word.png){.fragment data-fragment-index="1" .absolute top="30%" right="0%" width="40%" fig-alt="Une bibliographie copiée-collée sur Word à l'aide du logiciel Zotero"}
 
 ::: {.fragment data-fragment-index="1" .absolute right="41.5%" bottom="12%" style="font-size:18px;"}
 A copier/coller sur Word
@@ -988,6 +989,47 @@ A copier/coller sur Word
 
 – C’est un outil de plus en plus précieux pour la recherche au fur et à mesure que vous avancerez dans votre cursus
 :::
+
+
+## Equation de recherche {style="text-align: center;"}
+
+:::::: columns
+::: {#vcenter .column width="20%"}
+"**AND**"  
+Sépare les mots-clés entre eux
+:::
+
+::: {.column width="60%"}
+![](figures/ex-recherche-documentaire.png){fig-align="center" width="100%" fig-alt="Un exemple de recherche documentaire sur Google Scholar : reading AND pleasure OR emotion"}
+:::
+
+::: {#vcenter .column width="20%"}
+"**OR**"  
+Permet d’associer un synonyme à un mot-clé
+:::
+::::::
+
+::: notes
+– Expliquer rapidement comment chercher des articles car dans le rapport de recherche elles/ils devront en ajouter en plus de ceux obligatoires
+
+– Donner d’autres idées d’équation de recherche car celle affichée est très simple
+
+– Il y a sur la page IRIS d’autres articles que ceux obligatoires que vous pourrez utiliser en plus
+
+– Il y a également d’autres bases de données comme PsycInfo que vous aurez l’occasion de découvrir durant la formation Documen’TER pour le TER en L3 (je ne sais pas si ce n’est pas déjà accessible en L2 sur IRIS ?), c’est selon votre préférence (en l’occurence, ici, avec la même équation de recherche, les articles les plus pertinents apparaissaient en premier sur Google Scholar, mais pas sur PsycInfo)
+
+– Il vaut mieux utiliser l’équation de recherche en anglais plutôt qu’en français car la majorité des articles du domaine sont en anglais
+
+– Il y a des subtilités et des façons plus précises de chercher des articles, mais je ne rentrerai pas dans le détail dans le cadre de cette UE sauf si nécessaire
+
+– Les articles en anglais restent des références davantage reconnues dans la plupart des domaines
+:::
+
+
+# Problématique
+
+## Partageons les idées ! {style="text-align: center;"}
+
 
 
 ## 

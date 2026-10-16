@@ -1,6 +1,7 @@
 ---
 title: "TD2"
 subtitle: "Intelligence artificielle, articles et problématique"
+bibliography: lecture-plaisir.bib
 format: 
   revealjs:
     theme: custom_theme.scss

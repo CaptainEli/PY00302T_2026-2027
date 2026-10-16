@@ -141,3 +141,16 @@ $presentation-line-height: 1.6;
 .extrapad li:not(:last-child) {
     margin-bottom:50px  !important;
 }
+
+// CSS class for vertically centering items (https://github.com/orgs/quarto-dev/discussions/1386)
+
+.v-center-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90%;
+}
+
+#vcenter {
+  vertical-align: middle;
+}

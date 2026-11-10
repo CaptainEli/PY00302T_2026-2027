@@ -1052,11 +1052,6 @@ Permet d’associer un synonyme à un mot-clé
 → Notamment les [tâches]{.highlighted-light} autour de la lecture (cf bibliographie thème "[tâches de lecture]{.purple}")
 
 
-::: aside
-@creminReadingPleasureRecent2023; @sullivanReadingPleasureProgress2015; @sullivanVocabularyAdolescenceMiddle2015
-:::
-
-
 ## Lire de la poésie
 
 ### Question de recherche
@@ -1191,8 +1186,3 @@ Remerciements pour la construction de ces contenus de cours à
 **MAGALI BRINGUIER**
 
 **ZOÉ LACROUX**
-
-## Références {.dark-theme style="font-size:15px;"}
-
-::: {#refs}
-:::

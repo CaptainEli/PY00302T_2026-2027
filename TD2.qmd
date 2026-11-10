@@ -1036,26 +1036,20 @@ Permet d’associer un synonyme à un mot-clé
 [https://padlet.com/elichaput/py00302t-brainstorming](https://padlet.com/elichaput/py00302t-brainstorming-s024hz5did546d9nxapl)
 
 
-## Lire de la poésie
+## Lire de la poésie {.smaller}
 
-Pourquoi lire pour le plaisir ?
--> cf bibliographie thème "lire pour le plaisir"
+### Revue de littérature
+- **Pourquoi lire pour le plaisir ?**  
+→ Lié à de nombreux [bénéfices cognitifs]{.highlighted-light} (cf bibliographie thème "[lire pour le plaisir]{.red}")
 
-L'attrait de la poésie (le plaisir à la lecture d'un poème) pourrait-il résider dans son effet esthétique ?
--> oui (cf bibliographie thème "jugement esthétique et plaisir")
+- **Comment traite-t-on un texte à sa lecture ?**  
+→ Plusieurs niveaux de traitement, différents selon le [type de texte]{.highlighted-light} (cf bibliographie thème "[traitement du discours et de la poésie]{.magenta}")
 
-Comment traite-t-on un texte à sa lecture ?
--> cf bibliographie thème "traitement du discours et de la poésie"
+- **Qu'est-ce qui fait l'attrait de la poésie ?**  
+→ Le plaisir à la lecture de la poésie réside notamment dans son [effet esthétique]{.highlighted-light} (cf bibliographie thème "[jugement esthétique et plaisir]{.pink}")
 
-Les tâches de lecture peuvent-elles impacter la façon dont est traité un texte ?
--> oui (cf bibliographie thème "tâches de lecture")
-
--> On peut donc supposer que les tâches de lecture impactent l'effet esthétique d'un poème ; quelles tâches pour maximiser l'appréciation esthétique ?
-
-MAIS on pourrait théoriquement se poser d'autres questions : 
--> Comment optimiser la compréhension d'un texte (par les tâches de lecture) ?
--> Comment orienter l'attention d'un lecteur vers certains aspects du texte (par les tâches de lecture) ?
--> Etc.
+- **Qu'est-ce qui peut impacter le traitement d'un texte à sa lecture ?**  
+→ Notamment les [tâches]{.highlighted-light} autour de la lecture (cf bibliographie thème "[tâches de lecture]{.purple}")
 
 
 ::: aside
@@ -1063,9 +1057,21 @@ MAIS on pourrait théoriquement se poser d'autres questions :
 :::
 
 
-## 
+## Lire de la poésie
+
+### Question de recherche
+On peut donc supposer que les tâches de lecture impactent le traitement, et donc l'effet esthétique, d'un poème, ce qui par conséquence pourrait affecter l'attrait pour la lecture de ce type de texte.
+
+[→ Quelles tâches pour maximiser l'appréciation esthétique de la poésie ?]{.highlighted-light}
 
 ::: notes
+MAIS on pourrait théoriquement se poser d'autres questions :
+
+- Comment optimiser la compréhension d'un texte (par les tâches de lecture) ?  
+
+- Comment orienter l'attention d'un lecteur vers certains aspects du texte (par les tâches de lecture) ?  
+
+- Etc.
 :::
 
 # Clôture

@@ -1132,5 +1132,166 @@
     "title": "TD3",
     "section": "",
     "text": "Remerciements pour la construction de ces contenus de cours à\nYOAN SEGURA\nAURÉLIE PISTONO\nMAGALI BRINGUIER\nZOÉ LACROUX"
+  },
+  {
+    "objectID": "TD4.html#le-mur-des-questions",
+    "href": "TD4.html#le-mur-des-questions",
+    "title": "TD4",
+    "section": "Le mur des questions",
+    "text": "Le mur des questions\n\npadlet.com/elichaput/PY00302T"
+  },
+  {
+    "objectID": "TD4.html#objectifs-par-séance",
+    "href": "TD4.html#objectifs-par-séance",
+    "title": "TD4",
+    "section": "Objectifs par séance",
+    "text": "Objectifs par séance\n\nPour la séance 2\n\n\nLire les articles à l’aide (ou non) de la fiche de\n\n\nlecture et avancer sur le rapport de synthèses\n\n\n|\n\n\nPour la séance 4\n\n\nAvancer sur le rapport de recherche (partie\n\n\nméthode) et terminer le recueil des données\n\n\n|\n|\n|\n|\n|\n\n\nPour la semaine suivante\n\n\nTerminer le rapport de recherche (parties\n\n\ndiscussion-conclusion, bibliographie,\n\n\nrésumé, table des matières, annexes)\n\n\n|\n\n\n\n|\n\n\nPour la séance 3\n\n\nTerminer le rapport de synthèses et avancer sur\n\n\nle rapport de recherche (mise en forme du\n\n\ndocument, page de garde, partie introduction)\n\n\net l’expérience (apporter le matériel en plus\n\n\nnécessaire pour construire l’expérience)\n\n\n|\n\n\nPour la séance 5\n\n\nAvancer sur le rapport de recherche\n\n\n(partie résultats)"
+  },
+  {
+    "objectID": "TD4.html#variables-indépendantes",
+    "href": "TD4.html#variables-indépendantes",
+    "title": "TD4",
+    "section": "Variables indépendantes",
+    "text": "Variables indépendantes\n3 critères pour les définir\n\nVI agit sur VD et varie\n\n\n2 modalités minimum\n\n\n\nValeurs de la VI\n\nModalités\nDéfinition : correspondent aux valeurs que peut prendre la VI\nExemple : la VI “difficulté de la tâche” peut prendre 2 valeurs - “facile” et “difficile” ; elle a donc deux modalités\n\n\n\nType de la VI\n\nIntra-sujets/Intragroupe\nDéfinition : les participantes/participants passent par toutes les modalités/conditions de la VI\nExemple : les participantes/participants vont toutes/tous effectuer la tâche en condition facile ET en condition difficile\n\nInter-sujets/Intergroupes\nDéfinition : les participantes/participants sont réparti-es en groupes en fonction des modalités (autant de groupes que de modalités) et ne passent qu’une modalité/condition de la VI\nExemple : les participantes/participants vont effectuer la tâche en condition facile OU en condition difficile\n\n\n\nNature de la VI\n\nInvoquée\nDéfinition : l’expérimentatrice/expérimentateur ne peut pas directement manipuler la VI car elle est inhérente aux participantes/participants (p. ex. âge, genre)\n\nProvoquée\nDéfinition : l’expérimentatrice/expérimentateur manipule directement la VI (p. ex. difficulté d’une tâche – facile vs. difficile)"
+  },
+  {
+    "objectID": "TD4.html#variables-dépendantes",
+    "href": "TD4.html#variables-dépendantes",
+    "title": "TD4",
+    "section": "Variables dépendantes",
+    "text": "Variables dépendantes\nCaractéristiques métriques déduites à partir des échelles de mesure\n\n\nEchelle nominale\n\nObjectif : pour les variables dont les modalités ne peuvent pas être ordonnées\nExemples : genre, couleur, profession…\n↳ Indice de tendance centrale : mode | Indice de dispersion : étendue\n\n\n\nEchelle ordinale\n\nObjectif : pour les variables dont les modalités peuvent être ordonnées\nExemples : taille (petit, moyen, grand), échelle de Likert (de « pas du tout d’accord » à « tout à fait d’accord)…\n↳ Indice de tendance centrale : médiane | Indice de dispersion : écart interquartile\n\n\n\nEchelle d’intervalle\n\nObjectif : pour les variables dont les modalités peuvent être ordonnées et dont l’écart entre les modalités est égal\nExemples : température Celsius, note à un examen, score de mémoire…\n↳ Indice de tendance centrale : moyenne | Indice de dispersion : écart-type ou variance\n\nLe type d’échelle contribue à définir les statistiques à réaliser par la suite"
+  },
+  {
+    "objectID": "TD4.html#analyses-descriptives-vs.-inférentielles",
+    "href": "TD4.html#analyses-descriptives-vs.-inférentielles",
+    "title": "TD4",
+    "section": "Analyses descriptives vs. inférentielles",
+    "text": "Analyses descriptives vs. inférentielles\n\n\nAnalyses descriptives\nDéfinition\nDescriptions résumées/synthétiques des données\n\nAnalyses inférentielles\nDéfinition\nEstimations de l’existence d’effets n’étant pas liés au hasard\n\n\n\nIndices de dispersion\nDéfinition\nValeurs qui mesurent la variabilité / l’hétérogénéité des données\nÉtendue | Écart interquartile | Écart-type & Variance\n\nIndices de tendance centrale\nDéfinition\nValeurs qui résument la distribution des données\nMode | Médiane | Moyenne\n\nTests non-paramétriques\nUtilisation\nNe supposent pas une distribution particulière des données et donc nécessitent généralement peu de pré-requis\nMoins “puissants”\n\nTests paramétriques\nUtilisation\nSupposent une distribution particulière des données et donc nécessitent des pré-requis (souvent la loi normale)\nPlus “puissants”"
+  },
+  {
+    "objectID": "TD4.html#objectifs-par-séance-1",
+    "href": "TD4.html#objectifs-par-séance-1",
+    "title": "TD4",
+    "section": "Objectifs par séance",
+    "text": "Objectifs par séance\n\nPour la séance 2\n\n\nLire les articles à l’aide (ou non) de la fiche de\n\n\nlecture et avancer sur le rapport de synthèses\n\n\n|\n\n\nPour la séance 4\n\n\nAvancer sur le rapport de recherche (partie\n\n\nméthode) et terminer le recueil des données\n\n\n|\n|\n|\n|\n|\n\n\nPour la semaine suivante\n\n\nTerminer le rapport de recherche (parties\n\n\ndiscussion-conclusion, bibliographie,\n\n\nrésumé, table des matières, annexes)\n\n\n|\n\n\n\n|\n\n\nPour la séance 3\n\n\nTerminer le rapport de synthèses et avancer sur\n\n\nle rapport de recherche (mise en forme du\n\n\ndocument, page de garde, partie introduction)\n\n\net l’expérience (apporter le matériel en plus\n\n\nnécessaire pour construire l’expérience)\n\n\n|\n\n\nPour la séance 5\n\n\nAvancer sur le rapport de recherche\n\n\n(partie résultats)"
+  },
+  {
+    "objectID": "TD4.html#section",
+    "href": "TD4.html#section",
+    "title": "TD4",
+    "section": "",
+    "text": "Remerciements pour la construction de ces contenus de cours à\nYOAN SEGURA\nAURÉLIE PISTONO\nMAGALI BRINGUIER\nZOÉ LACROUX"
+  },
+  {
+    "objectID": "TD4.html#analyses-descriptives-vs.-inférentielles-1",
+    "href": "TD4.html#analyses-descriptives-vs.-inférentielles-1",
+    "title": "TD4",
+    "section": "Analyses descriptives vs. inférentielles",
+    "text": "Analyses descriptives vs. inférentielles\n\n\nAnalyses descriptives\nDéfinition\nDescriptions résumées/synthétiques des données\n\nAnalyses inférentielles\nDéfinition\nEstimations de l’existence d’effets n’étant pas liés au hasard\n\n\n\nIndices de dispersion\nDéfinition\nValeurs qui mesurent la variabilité / l’hétérogénéité des données\nÉtendue | Écart interquartile | Écart-type & Variance\n\nIndices de tendance centrale\nDéfinition\nValeurs qui résument la distribution des données\nMode | Médiane | Moyenne\n\nHypothèse nulle (H0)\nIl n’existe pas de relation entre les variables\n\nHypothèse alternative (H1)\nIl existe une relation entre les variables\nUnilatérale\nBilatérale droite ou gauche"
+  },
+  {
+    "objectID": "TD4.html#analyses-descriptives-vs.-inférentielles-2",
+    "href": "TD4.html#analyses-descriptives-vs.-inférentielles-2",
+    "title": "TD4",
+    "section": "Analyses descriptives vs. inférentielles",
+    "text": "Analyses descriptives vs. inférentielles\n\n\nAnalyses descriptives\nDéfinition\nDescriptions résumées/synthétiques des données\n\nAnalyses inférentielles\nDéfinition\nEstimations de l’existence d’effets n’étant pas liés au hasard\n\n\n\nIndices de dispersion\nDéfinition\nValeurs qui mesurent la variabilité / l’hétérogénéité des données\nÉtendue | Écart interquartile | Écart-type & Variance\n\nIndices de tendance centrale\nDéfinition\nValeurs qui résument la distribution des données\nMode | Médiane | Moyenne\n\nSi p &gt; .05\nIl n’y a pas de relation statistiquement significative entre les variables\nNon-rejet de H0\nNon-acceptation de H1\n\nSi p &lt; .05\nIl y a une relation statistiquement significative entre les variables\nRejet de H0\nAcceptation de H1\n\n\np-valeur : probabilité d’obtenir un résultat au moins aussi extrême que celui observé, en supposant que l’hypothèse nulle est vraie"
+  },
+  {
+    "objectID": "TD4.html#analyses-descriptives-vs.-inférentielles-3",
+    "href": "TD4.html#analyses-descriptives-vs.-inférentielles-3",
+    "title": "TD4",
+    "section": "Analyses descriptives vs. inférentielles",
+    "text": "Analyses descriptives vs. inférentielles\n\n\nAnalyses descriptives\nDéfinition\nDescriptions résumées/synthétiques des données\n\nAnalyses inférentielles\nDéfinition\nEstimations de l’existence d’effets n’étant pas liés au hasard\n\n\n\nIndices de dispersion\nDéfinition\nValeurs qui mesurent la variabilité / l’hétérogénéité des données\nÉtendue | Écart interquartile | Écart-type & Variance\n\nIndices de tendance centrale\nDéfinition\nValeurs qui résument la distribution des données\nMode | Médiane | Moyenne\n\nIntervalle de confiance à 95%\nDéfinition\nPlage de valeurs calculée de telle sorte que, si l’expérience était répétée à l’infini, 95% des intervalles de confiance contiendraient la vraie valeur\nExemple\nLa moyenne des notes se situe entre 12 et 14 avec 95% de niveau de confiance, la méthode encadrant donc la vraie valeur 95 fois sur 100"
+  },
+  {
+    "objectID": "TD4.html#analyses-descriptives-vs.-inférentielles-4",
+    "href": "TD4.html#analyses-descriptives-vs.-inférentielles-4",
+    "title": "TD4",
+    "section": "Analyses descriptives vs. inférentielles",
+    "text": "Analyses descriptives vs. inférentielles\n\n\nAnalyses descriptives\nDéfinition\nDescriptions résumées/synthétiques des données\n\nAnalyses inférentielles\nDéfinition\nEstimations de l’existence d’effets n’étant pas liés au hasard\n\n\n\nIndices de dispersion\nDéfinition\nValeurs qui mesurent la variabilité / l’hétérogénéité des données\nÉtendue | Écart interquartile | Écart-type & Variance\n\nIndices de tendance centrale\nDéfinition\nValeurs qui résument la distribution des données\nMode | Médiane | Moyenne\n\nEffet principal\nDéfinition\nEffet d’une VI sur une VD\nExemple\n“Le son (VI) influence le score en rappel libre (VD).”\n\nEffet d’interaction\nDéfinition\nEffet de &gt;1 VI sur une VD\nExemple\n“Le son (VI1) et le moment de la journée (VI2) influencent le score en rappel libre (VD).”"
+  },
+  {
+    "objectID": "TD4.html#analyses-descriptives-vs.-inférentielles-5",
+    "href": "TD4.html#analyses-descriptives-vs.-inférentielles-5",
+    "title": "TD4",
+    "section": "Analyses descriptives vs. inférentielles",
+    "text": "Analyses descriptives vs. inférentielles\n\n\nAnalyses descriptives\nDéfinition\nDescriptions résumées/synthétiques des données\n\nAnalyses inférentielles\nDéfinition\nEstimations de l’existence d’effets n’étant pas liés au hasard\n\n\n\nIndices de dispersion\nDéfinition\nValeurs qui mesurent la variabilité / l’hétérogénéité des données\nÉtendue | Écart interquartile | Écart-type & Variance\n\nIndices de tendance centrale\nDéfinition\nValeurs qui résument la distribution des données\nMode | Médiane | Moyenne\n\nEffet principal\nDéfinition\nEffet d’une VI sur une VD\nExemple\n[INSERT IMAGE HERE]\n\nEffet d’interaction\nDéfinition\nEffet de &gt;1 VI sur une VD\nExemple\n[INSERT IMAGE HERE]"
+  },
+  {
+    "objectID": "TD4.html#indices-de-dispersion-vs.-de-tendance-centrale",
+    "href": "TD4.html#indices-de-dispersion-vs.-de-tendance-centrale",
+    "title": "TD4",
+    "section": "Indices de dispersion vs. de tendance centrale",
+    "text": "Indices de dispersion vs. de tendance centrale\n\n\nIndices de dispersion\nDéfinition\nValeurs qui mesurent la variabilité/l‘hétérogénéité des données\nÉtendue\nÉcart maximum entre les valeurs (maximum - minimum)\nÉcart interquartile\nDifférence entre le 1er quartile (seuil de 25% des données) et le 3ème quartile (seuil de 75% des données)\nÉcart-type & Variance\nL’écart-type est la racine carré de la variance\nPlus ils sont petits, plus les valeurs de la distribution sont proches les unes des autres et inversement\n\nIndices de tendance centrale\nDéfinition\nValeurs qui résument la distribution des données\nMode\nModalité de la variable avec le plus grand effectif\nMédiane\nValeur qui sépare la moitié inférieure de la moitié supérieure d’un ensemble\nMoyenne\nAddition des valeurs de chaque observation divisée par le nombre total d’observation"
+  },
+  {
+    "objectID": "TD4.html#indices-de-dispersion-vs.-de-tendance-centrale-1",
+    "href": "TD4.html#indices-de-dispersion-vs.-de-tendance-centrale-1",
+    "title": "TD4",
+    "section": "Indices de dispersion vs. de tendance centrale",
+    "text": "Indices de dispersion vs. de tendance centrale\n\n\nIndices de dispersion\nDéfinition\nValeurs qui mesurent la variabilité/l‘hétérogénéité des données\nÉtendue\nÉcart maximum entre les valeurs (maximum - minimum)\nÉcart interquartile\nDifférence entre le 1er quartile (seuil de 25% des données) et le 3ème quartile (seuil de 75% des données)\nÉcart-type & Variance\nL’écart-type est la racine carré de la variance\nPlus ils sont petits, plus les valeurs de la distribution sont proches les unes des autres et inversement\n\n[INSERT IMAGE HERE]"
+  },
+  {
+    "objectID": "TD4.html#indices-de-dispersion-vs.-de-tendance-centrale-2",
+    "href": "TD4.html#indices-de-dispersion-vs.-de-tendance-centrale-2",
+    "title": "TD4",
+    "section": "Indices de dispersion vs. de tendance centrale",
+    "text": "Indices de dispersion vs. de tendance centrale\n\n\n[INSERT IMAGE HERE]\n\nIndices de tendance centrale\nDéfinition\nValeurs qui résument la distribution des données\nMode\nModalité de la variable avec le plus grand effectif\nMédiane\nValeur qui sépare la moitié inférieure de la moitié supérieure d’un ensemble\nMoyenne\nAddition des valeurs de chaque observation divisée par le nombre total d’observation"
+  },
+  {
+    "objectID": "TD4.html#exemple-de-tableau",
+    "href": "TD4.html#exemple-de-tableau",
+    "title": "TD4",
+    "section": "Exemple de tableau",
+    "text": "Exemple de tableau\nTableau 1\n[variable dépendante opérationnelle] selon [variable indépendante opérationnelle]\n\n\n\n\nVariable dépendante opérationnelle\n\n\n\nVariable indépendante opérationnelle\n\nM\n\nET\n\n\n\nModalité 1\nModalité 2\nModalité 3\nModalité 4\n\n12.3\n13.9\n15.2\n11.4\n\n1.26\n1.21\n1.4\n1.08"
+  },
+  {
+    "objectID": "TD4.html#exemple-de-graphique",
+    "href": "TD4.html#exemple-de-graphique",
+    "title": "TD4",
+    "section": "Exemple de graphique",
+    "text": "Exemple de graphique\nBoîte à moustache ou « Box plot »\n\n\n[INSERT IMAGE HERE]\n\n[INSERT IMAGE HERE]\n\n[INSERT IMAGE HERE]\n\n\n\nhttps://datatab.fr/tutorial/box-plot & https://www.data-to-viz.com/"
+  },
+  {
+    "objectID": "TD5.html#le-mur-des-questions",
+    "href": "TD5.html#le-mur-des-questions",
+    "title": "TD5",
+    "section": "Le mur des questions",
+    "text": "Le mur des questions\n\npadlet.com/elichaput/PY00302T"
+  },
+  {
+    "objectID": "TD5.html#objectifs-par-séance",
+    "href": "TD5.html#objectifs-par-séance",
+    "title": "TD5",
+    "section": "Objectifs par séance",
+    "text": "Objectifs par séance\n\nPour la séance 2\n\n\nLire les articles à l’aide (ou non) de la fiche de\n\n\nlecture et avancer sur le rapport de synthèses\n\n\n|\n\n\nPour la séance 4\n\n\nAvancer sur le rapport de recherche (partie\n\n\nméthode) et terminer le recueil des données\n\n\n|\n|\n|\n|\n|\n\n\nPour la semaine suivante\n\n\nTerminer le rapport de recherche (parties\n\n\ndiscussion-conclusion, bibliographie,\n\n\nrésumé, table des matières, annexes)\n\n\n|\n\n\n\n|\n\n\nPour la séance 3\n\n\nTerminer le rapport de synthèses et avancer sur\n\n\nle rapport de recherche (mise en forme du\n\n\ndocument, page de garde, partie introduction)\n\n\net l’expérience (apporter le matériel en plus\n\n\nnécessaire pour construire l’expérience)\n\n\n|\n\n\nPour la séance 5\n\n\nAvancer sur le rapport de recherche\n\n\n(partie résultats)"
+  },
+  {
+    "objectID": "TD5.html#objectifs-par-séance-1",
+    "href": "TD5.html#objectifs-par-séance-1",
+    "title": "TD5",
+    "section": "Objectifs par séance",
+    "text": "Objectifs par séance\n\nPour la séance 2\n\n\nLire les articles à l’aide (ou non) de la fiche de\n\n\nlecture et avancer sur le rapport de synthèses\n\n\n|\n\n\nPour la séance 4\n\n\nAvancer sur le rapport de recherche (partie\n\n\nméthode) et terminer le recueil des données\n\n\n|\n|\n|\n|\n|\n\n\nPour la semaine suivante\n\n\nTerminer le rapport de recherche (parties\n\n\ndiscussion-conclusion, bibliographie,\n\n\nrésumé, table des matières, annexes)\n\n\n|\n\n\n\n|\n\n\nPour la séance 3\n\n\nTerminer le rapport de synthèses et avancer sur\n\n\nle rapport de recherche (mise en forme du\n\n\ndocument, page de garde, partie introduction)\n\n\net l’expérience (apporter le matériel en plus\n\n\nnécessaire pour construire l’expérience)\n\n\n|\n\n\nPour la séance 5\n\n\nAvancer sur le rapport de recherche\n\n\n(partie résultats)"
+  },
+  {
+    "objectID": "TD5.html#section",
+    "href": "TD5.html#section",
+    "title": "TD5",
+    "section": "",
+    "text": "Remerciements pour la construction de ces contenus de cours à\nYOAN SEGURA\nAURÉLIE PISTONO\nMAGALI BRINGUIER\nZOÉ LACROUX"
+  },
+  {
+    "objectID": "TD5.html#partageons-les-idées",
+    "href": "TD5.html#partageons-les-idées",
+    "title": "TD5",
+    "section": "Partageons les idées !",
+    "text": "Partageons les idées !"
+  },
+  {
+    "objectID": "TD5.html#annexes",
+    "href": "TD5.html#annexes",
+    "title": "TD5",
+    "section": "Annexes",
+    "text": "Annexes\nObligatoirement à ajouter à votre rapport de recherche\n\n\nDéclaration sur l’honneur contre le plagiat\nSans déclaration, votre note est automatiquement 0/20\n[INSERT IMAGE HERE]\n\nTout le matériel utilisé (en scan ou en photo) Citez-le dans votre partie méthode : (Annexe A)…\n[INSERT IMAGE HERE]\n\nSorties JAMOVI et données organisées sur un tableur\n[INSERT IMAGE HERE]\n\nTout autre élément pertinent"
   }
 ]

@@ -145,11 +145,12 @@ Avancer sur le [rapport de recherche]{.light-blue}
 (partie [résultats]{.light-blue})
 :::
 
+
+# Recrutement des participants
+
 ## Partageons les idées ! {style="text-align: center;"}
 
 ![](figures/qr_code_brainstorming.png){fig-align="center" width="100%" fig-alt="Un QR code renvoyant vers un Padlet intitulé « brainstorming »"} 
-
-# Recrutement des participants
 
 ## Critères d'inclusion et de non-inclusion {.smaller style="text-align: center;"}
 

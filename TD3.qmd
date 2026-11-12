@@ -181,7 +181,11 @@ Sportive/Sportif de haut niveau
 :::::: 
 
 ::: notes
+– Ne pas être trop restrictif dans ces critères pour généraliser vos effets au mieux
 
+– Critères de non-inclusion sont parfois appelés critères d’exclusion, c’est subtile, il s’agit plutôt de critères définis a posteriori selon les résultats observés (p. ex. valeurs aberrantes) qui conduisent à l’exclusion des données d’une participante/un participant de l’étude
+
+– Pensez à la tranche d’âge que vous souhaitez, notamment à travers la littérature (p. ex. trouver des articles sur des tâches similaires qui comparent les différences entre hommes et femmes ; vérifier également s’il s’agit du sexe biologique ou du genre social et pourquoi ?)
 ::: 
 
 ## Notice d'information & Consentement libre et éclairé {.smaller style="text-align: center"}
@@ -212,12 +216,28 @@ Sportive/Sportif de haut niveau
 [https://www.univ-toulouse.fr/actualites/comite-d-ethique-de-recherche-cer](https://www.univ-toulouse.fr/actualites/comite-d-ethique-de-recherche-cer){style="font-size:15px"}
 :::
 
-::: notes
-
-::: 
 
 ## Questionnaire socio-démographique
 
+::: notes
+– Je vous conseille de toujours mettre dans les propositions « Je ne souhaite pas répondre »
+
+– Le questionnaire socio-démographique doit reprendre des informations descriptives pertinentes pour décrire votre échantillon ainsi que vos critères d’inclusion et de non-inclusion ; si une ou plusieurs cases qui comportent des critères de non-inclusion sont cochées, les résultats de la personne ne pourront pas être inclus dans l’étude, de même pour les cases « Je ne souhaite pas répondre »
+
+– Il est inutile d’en faire un très exhaustif s’il n’y a pas de pertinence/d’objectifs derrière, le mieux du point de vue du RGPD est d’en demander le moins possible pour protéger le plus possible l’anonymat
+
+– Certains critères ne sont pas utiles à ajouter : avant, j’avais tendance à demander le niveau de français pour m’assurer de la compréhension des consignes, mais ce n’est pas utile car vous voyez rapidement si une participante/un participant a compris ou non la tâche et il y a souvent des phases de familiarisation pour les aider à appréhender le matériel ; en revanche, le niveau de français peut être important à demander dans des tâches langagières
+
+– Il peut être proposé au début ou à la fin selon ce que vous jugez le plus pertinent pour limiter les biais expérimentaux liés à la désirabilité sociale ou à la fatigue cognitive
+
+– Remarque : une astuce à la fois pour simplifier le questionnaire socio-démographique, pour ne pas mettre en inconfort la participante/le participant et pour préserver le plus possible son anonymat, consiste à faire une énumération de tous les critères de non-inclusion plutôt qu’une case à cocher par critère
+
+– Remarque bis : de la même façon, une autre astuce consiste à demander l’année de naissance plutôt que la date de naissance
+
+– Remarque bis bis : si vous souhaitez demander le sexe biologique ou le genre social, vous devez au préalable vous demander s’il pourrait éventuellement y avoir une différence relative au sexe biologique (p. ex. mesures physiologiques) ou au genre social afin de contrôler cette variable correctement
+
+– Remarque bis bis bis : thymique = de l’humeur
+::: 
 
 
 # Méthodologie
